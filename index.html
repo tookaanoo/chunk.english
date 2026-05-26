@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Chunk Reader</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <!-- Screen 1: Works list -->
+  <section id="screen-works" class="screen active">
+    <h1 class="screen-heading">作品を選ぶ</h1>
+    <p class="screen-subheading">学習したい作品を選んでください</p>
+    <div id="works-list" class="list"></div>
+  </section>
+
+  <!-- Screen 2: Chapters list -->
+  <section id="screen-chapters" class="screen">
+    <div class="nav-header">
+      <button class="back-btn" id="back-to-works">← 作品</button>
+      <span class="nav-title" id="chapters-title">—</span>
+    </div>
+    <h1 class="screen-heading">章を選ぶ</h1>
+    <div id="chapters-list" class="list"></div>
+  </section>
+
+  <!-- Screen 3: Browse / Search -->
+  <section id="screen-browse" class="screen">
+    <div class="nav-header">
+      <button class="back-btn" id="back-to-chapters">← 章</button>
+      <span class="nav-title" id="browse-title">—</span>
+    </div>
+
+    <input type="text" id="search-input" class="search-bar" placeholder="単語・熟語で検索（例: have seen）">
+
+    <button id="practice-filtered-btn" class="practice-filtered-btn" style="display:none;">フィルタした文を練習する →</button>
+
+    <div id="search-info" class="search-info">—</div>
+
+    <button id="practice-all-btn" class="practice-filtered-btn" style="background: var(--bg-tertiary); color: var(--text); border: 1px solid var(--border);">最初から練習する →</button>
+
+    <div id="sentence-list"></div>
+  </section>
+
+  <!-- Screen 4: Learning -->
+  <section id="screen-learn" class="screen">
+    <div class="nav-header">
+      <button class="back-btn" id="back-to-browse">← 一覧</button>
+      <span class="nav-title" id="learn-title">—</span>
+      <button class="small" id="mode-toggle">Manual</button>
+    </div>
+
+    <div class="progress" id="progress">— / —</div>
+
+    <div class="auto-controls" id="auto-controls">
+      <span>Speed</span>
+      <input type="range" id="speed" min="1" max="5" value="3" step="1">
+      <span id="speed-label" style="min-width: 40px; text-align: right;">2.0s</span>
+    </div>
+
+    <div class="stage">
+      <div class="chunk-row" id="chunk-row"></div>
+      <div class="jp-row" id="jp-row"></div>
+      <div class="full-jp-row" id="full-jp-row"></div>
+    </div>
+
+    <div class="control-group">
+      <div class="control-label">Chunk</div>
+      <div class="button-row">
+        <button id="show-jp">Show meaning</button>
+        <button id="next-chunk" class="primary">Next chunk →</button>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <div class="control-label">Sentence</div>
+      <div class="button-row">
+        <button id="prev-sentence">← Prev</button>
+        <button id="next-sentence">Next sentence →</button>
+      </div>
+    </div>
+
+    <p class="hint">Next chunk でチャンクが進みます。文末で全文の和訳が出ます。</p>
+  </section>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

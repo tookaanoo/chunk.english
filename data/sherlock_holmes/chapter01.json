@@ -1,0 +1,230 @@
+{
+  "chapter": 1,
+  "title": "A Scandal in Bohemia — Opening",
+  "sentences": [
+    {
+      "id": 1,
+      "chunks": [
+        { "en": "To Sherlock Holmes", "jp": "シャーロック・ホームズにとって" },
+        { "en": "she is always", "jp": "彼女はいつも" },
+        { "en": "the woman.", "jp": "「あの女性」だ。" }
+      ],
+      "full_jp": "シャーロック・ホームズにとって、彼女はいつも「あの女(ひと)」である。"
+    },
+    {
+      "id": 2,
+      "chunks": [
+        { "en": "I have seldom heard him", "jp": "私はほとんど聞いたことがない、彼が" },
+        { "en": "mention her", "jp": "彼女に言及するのを" },
+        { "en": "under any other name.", "jp": "他のどんな名前でも。" }
+      ],
+      "full_jp": "彼が彼女を別の名で呼ぶのを、私はほとんど聞いたことがない。"
+    },
+    {
+      "id": 3,
+      "chunks": [
+        { "en": "In his eyes", "jp": "彼の目には" },
+        { "en": "she eclipses", "jp": "彼女は影を薄れさせ" },
+        { "en": "and predominates", "jp": "そして圧倒する" },
+        { "en": "the whole of her sex.", "jp": "女性という性のすべてを。" }
+      ],
+      "full_jp": "彼の目には、彼女は他のすべての女性を凌駕し、圧倒する存在である。"
+    },
+    {
+      "id": 4,
+      "chunks": [
+        { "en": "It was not", "jp": "そういうことではない" },
+        { "en": "that he felt", "jp": "彼が感じていた" },
+        { "en": "any emotion", "jp": "何らかの感情を" },
+        { "en": "akin to love", "jp": "愛に近い" },
+        { "en": "for Irene Adler.", "jp": "アイリーン・アドラーに対して。" }
+      ],
+      "full_jp": "彼がアイリーン・アドラーに愛のような感情を抱いていたわけではない。"
+    },
+    {
+      "id": 5,
+      "chunks": [
+        { "en": "All emotions,", "jp": "あらゆる感情は、" },
+        { "en": "and that one particularly,", "jp": "特にその感情は、" },
+        { "en": "were abhorrent", "jp": "忌み嫌うものだった" },
+        { "en": "to his cold, precise", "jp": "彼の冷徹で精密な" },
+        { "en": "but admirably balanced mind.", "jp": "しかし見事に均衡のとれた精神にとって。" }
+      ],
+      "full_jp": "あらゆる感情、特に愛という感情は、彼の冷徹で精密でありながら見事に均衡のとれた精神にとって、忌み嫌うべきものだった。"
+    },
+    {
+      "id": 6,
+      "chunks": [
+        { "en": "He was, I take it,", "jp": "彼は、思うに、" },
+        { "en": "the most perfect reasoning", "jp": "最も完璧な推論し" },
+        { "en": "and observing machine", "jp": "そして観察する機械だった" },
+        { "en": "that the world has seen,", "jp": "世界がこれまで見た中で、" },
+        { "en": "but as a lover", "jp": "しかし恋人としては" },
+        { "en": "he would have placed himself", "jp": "彼は自らを置いただろう" },
+        { "en": "in a false position.", "jp": "誤った立場に。" }
+      ],
+      "full_jp": "彼はおそらく、世界がこれまで見た中で最も完璧な推論と観察の機械だったが、恋人としてはふさわしくない立場に身を置くことになっただろう。"
+    },
+    {
+      "id": 7,
+      "chunks": [
+        { "en": "I had seen little", "jp": "私はあまり会っていなかった" },
+        { "en": "of Holmes lately.", "jp": "ホームズには最近。" }
+      ],
+      "full_jp": "私は最近、ホームズにあまり会っていなかった。"
+    },
+    {
+      "id": 8,
+      "chunks": [
+        { "en": "My marriage", "jp": "私の結婚が" },
+        { "en": "had drifted us away", "jp": "私たちを引き離していた" },
+        { "en": "from each other.", "jp": "お互いから。" }
+      ],
+      "full_jp": "私の結婚が、私たち二人を疎遠にしていた。"
+    },
+    {
+      "id": 9,
+      "chunks": [
+        { "en": "My own complete happiness,", "jp": "私自身の完全な幸福、" },
+        { "en": "and the home-centred interests", "jp": "そして家庭中心の関心事が" },
+        { "en": "which rise up", "jp": "湧き上がってくる" },
+        { "en": "around the man", "jp": "男の周りに" },
+        { "en": "who first finds himself", "jp": "初めて自分が立ったと気づいた" },
+        { "en": "master of his own establishment,", "jp": "自分自身の家庭の主人として、" },
+        { "en": "were sufficient", "jp": "それで十分だった" },
+        { "en": "to absorb all my attention.", "jp": "私の関心をすべて奪うのに。" }
+      ],
+      "full_jp": "私自身の完璧な幸福と、初めて一家の主となった男に湧き上がる家庭中心の関心事だけで、私の注意はすっかり満たされていた。"
+    },
+    {
+      "id": 10,
+      "chunks": [
+        { "en": "Holmes,", "jp": "ホームズは、" },
+        { "en": "who loathed every form", "jp": "あらゆる形を嫌っていた" },
+        { "en": "of society", "jp": "社交の" },
+        { "en": "with his whole Bohemian soul,", "jp": "彼の自由奔放な魂のすべてをもって、" },
+        { "en": "remained in our lodgings", "jp": "下宿に留まっていた" },
+        { "en": "in Baker Street,", "jp": "ベイカー街の、" },
+        { "en": "buried among his old books.", "jp": "彼の古い本に埋もれて。" }
+      ],
+      "full_jp": "ホームズは、その自由奔放な魂であらゆる社交を毛嫌いし、ベイカー街の下宿に留まって、古い本に埋もれて過ごしていた。"
+    },
+    {
+      "id": 11,
+      "chunks": [
+        { "en": "One night —", "jp": "ある夜——" },
+        { "en": "it was on the twentieth of March, 1888 —", "jp": "それは1888年3月20日のことだった——" },
+        { "en": "I was returning", "jp": "私は帰る途中だった" },
+        { "en": "from a journey", "jp": "旅から" },
+        { "en": "to a patient", "jp": "ある患者への" },
+        { "en": "(for I had now returned", "jp": "(というのも私は今や戻っていた" },
+        { "en": "to civil practice),", "jp": "民間の開業医に)、" },
+        { "en": "when my way led me", "jp": "そして私の道は私を導いた" },
+        { "en": "through Baker Street.", "jp": "ベイカー街を通って。" }
+      ],
+      "full_jp": "ある夜——1888年3月20日のことだった——私は患者の往診から帰る途中で(私はその頃には民間開業医として復帰していた)、ベイカー街を通りかかった。"
+    },
+    {
+      "id": 12,
+      "chunks": [
+        { "en": "As I passed", "jp": "私が通り過ぎるとき" },
+        { "en": "the well-remembered door,", "jp": "よく覚えているあの扉を、" },
+        { "en": "which must always be associated", "jp": "それは常に結びつけられるに違いない" },
+        { "en": "in my mind", "jp": "私の心の中で" },
+        { "en": "with my wooing,", "jp": "私の求愛と、" },
+        { "en": "and with the dark incidents", "jp": "そして暗い出来事と" },
+        { "en": "of the Study in Scarlet,", "jp": "『緋色の研究』の、" },
+        { "en": "I was seized", "jp": "私は襲われた" },
+        { "en": "with a keen desire", "jp": "強い願望に" },
+        { "en": "to see Holmes again,", "jp": "ホームズに再び会いたいという、" },
+        { "en": "and to know", "jp": "そして知りたいという" },
+        { "en": "how he was employing", "jp": "彼がどう使っているかを" },
+        { "en": "his extraordinary powers.", "jp": "彼の並外れた能力を。" }
+      ],
+      "full_jp": "あのよく見慣れた扉——私の求婚や『緋色の研究』の暗い事件と、私の中で常に結びつく扉——を通り過ぎたとき、私は急にホームズに会いたい、彼があの並外れた能力をどう使っているのか知りたいという強い思いに駆られた。"
+    },
+    {
+      "id": 13,
+      "chunks": [
+        { "en": "His rooms", "jp": "彼の部屋は" },
+        { "en": "were brilliantly lit,", "jp": "煌々と明かりが灯っていた、" },
+        { "en": "and, even as I looked up,", "jp": "そして、見上げたまさにその時、" },
+        { "en": "I saw his tall, spare figure", "jp": "私は彼の背が高くやせた姿を見た" },
+        { "en": "pass twice", "jp": "二度通り過ぎるのを" },
+        { "en": "in a dark silhouette", "jp": "黒いシルエットで" },
+        { "en": "against the blind.", "jp": "ブラインドに映って。" }
+      ],
+      "full_jp": "彼の部屋には煌々と明かりが灯っており、見上げると、ブラインドに映る彼の背の高い痩せたシルエットが、二度横切るのが見えた。"
+    },
+    {
+      "id": 14,
+      "chunks": [
+        { "en": "He was pacing the room", "jp": "彼は部屋を歩き回っていた" },
+        { "en": "swiftly, eagerly,", "jp": "素早く、熱心に、" },
+        { "en": "with his head sunk", "jp": "頭を沈めて" },
+        { "en": "upon his chest", "jp": "胸の上に" },
+        { "en": "and his hands clasped", "jp": "そして手を組んで" },
+        { "en": "behind him.", "jp": "後ろ手に。" }
+      ],
+      "full_jp": "彼は頭を胸に沈め、後ろ手に手を組み、素早く熱心に部屋を歩き回っていた。"
+    },
+    {
+      "id": 15,
+      "chunks": [
+        { "en": "To me,", "jp": "私には、" },
+        { "en": "who knew his every mood", "jp": "彼のあらゆる気分を知っていた" },
+        { "en": "and habit,", "jp": "そして習慣を、" },
+        { "en": "his attitude and manner", "jp": "彼の態度と仕草が" },
+        { "en": "told their own story.", "jp": "それ自体で物語っていた。" }
+      ],
+      "full_jp": "彼のあらゆる気分や癖を知り尽くしている私には、その姿と仕草だけで事情がわかった。"
+    },
+    {
+      "id": 16,
+      "chunks": [
+        { "en": "He was at work again.", "jp": "彼は再び仕事中だった。" }
+      ],
+      "full_jp": "彼はまた仕事に取りかかっていたのだ。"
+    },
+    {
+      "id": 17,
+      "chunks": [
+        { "en": "He had risen", "jp": "彼は抜け出していた" },
+        { "en": "out of his drug-created dreams", "jp": "薬で作り出された夢から" },
+        { "en": "and was hot", "jp": "そして熱中していた" },
+        { "en": "upon the scent", "jp": "嗅ぎつけたものを追って" },
+        { "en": "of some new problem.", "jp": "何か新しい問題の。" }
+      ],
+      "full_jp": "彼は薬による幻想の眠りから抜け出し、何か新しい事件の匂いを追って熱くなっていた。"
+    },
+    {
+      "id": 18,
+      "chunks": [
+        { "en": "I rang the bell", "jp": "私はベルを鳴らした" },
+        { "en": "and was shown up", "jp": "そして案内された" },
+        { "en": "to the chamber", "jp": "あの部屋へ" },
+        { "en": "which had formerly been", "jp": "かつて〜だった" },
+        { "en": "in part my own.", "jp": "一部は私自身のものでもあった。" }
+      ],
+      "full_jp": "私はベルを鳴らし、かつて半ば私の部屋でもあった一室へと通された。"
+    },
+    {
+      "id": 19,
+      "chunks": [
+        { "en": "His manner", "jp": "彼の態度は" },
+        { "en": "was not effusive.", "jp": "大げさではなかった。" }
+      ],
+      "full_jp": "彼の態度はそっけなかった。"
+    },
+    {
+      "id": 20,
+      "chunks": [
+        { "en": "It seldom was;", "jp": "それはめったになかった;" },
+        { "en": "but he was glad,", "jp": "しかし彼は喜んでいた、" },
+        { "en": "I think,", "jp": "と私は思う、" },
+        { "en": "to see me.", "jp": "私に会えて。" }
+      ],
+      "full_jp": "彼はめったに愛想がいいということはないのだが、私に会えて喜んでいるようだった。"
+    }
+  ]
+}

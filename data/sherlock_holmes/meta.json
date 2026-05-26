@@ -1,0 +1,14 @@
+{
+  "id": "sherlock_holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "chapters": [
+    {
+      "id": "chapter01",
+      "number": 1,
+      "title": "A Scandal in Bohemia",
+      "subtitle": "ボヘミアの醜聞",
+      "file": "chapter01.json"
+    }
+  ]
+}
