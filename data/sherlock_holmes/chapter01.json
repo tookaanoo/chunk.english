@@ -3606,6 +3606,191 @@
         { "en": "were such as Mr. John Hare alone could have equalled.", "jp": "それらは名優ジョン・ヘアにしか並べないほどの出来だった。" }
       ],
       "full_jp": "幅広の黒い帽子、だぶだぶのズボン、白いタイ、優しげな微笑、そして詮索好きで温和な好奇心に満ちた表情——名優ジョン・ヘアでなければ並べないほどの見事な変装だった。"
+    },
+    {
+      "id": 401,
+      "chunks": [
+        { "en": "It was not merely", "jp": "「単に〜だけではなかった」" },
+        { "en": "that Holmes changed his costume.", "jp": "「ホームズが衣装を変えたというだけでは。」" }
+      ],
+      "full_jp": "ホームズはただ衣装を変えたというだけではなかった。"
+    },
+    {
+      "id": 402,
+      "chunks": [
+        { "en": "His expression,", "jp": "彼の表情、" },
+        { "en": "his manner,", "jp": "彼の態度、" },
+        { "en": "his very soul", "jp": "彼の魂そのものが" },
+        { "en": "seemed to vary", "jp": "変わるように見えた" },
+        { "en": "with every fresh part", "jp": "新しい役ごとに" },
+        { "en": "that he assumed.", "jp": "彼が引き受けた。" }
+      ],
+      "full_jp": "彼が新しい役を演じるたび、その表情も、振る舞いも、魂そのものまでが別人のように変わるのだった。"
+    },
+    {
+      "id": 403,
+      "chunks": [
+        { "en": "The stage lost a fine actor,", "jp": "「演劇界は優れた俳優を失った、」" },
+        { "en": "even as science lost an acute reasoner,", "jp": "「科学が鋭い推理家を失ったのと同様に、」" },
+        { "en": "when he became a specialist in crime.", "jp": "「彼が犯罪の専門家になった時に。」" }
+      ],
+      "full_jp": "彼が犯罪の専門家になった時、科学は鋭い推理家を失ったが、それと同じくらい、演劇界もまた優れた俳優を失ったのだ。"
+    },
+    {
+      "id": 404,
+      "chunks": [
+        { "en": "It was a quarter past six", "jp": "「6時15分だった」" },
+        { "en": "when we left Baker Street,", "jp": "「私たちがベイカー街を発った時、」" },
+        { "en": "and it still wanted ten minutes to the hour", "jp": "「そしてまだ7時まで10分あった」" },
+        { "en": "when we found ourselves in Serpentine Avenue.", "jp": "「サーペンタイン通りに着いた時。」" }
+      ],
+      "full_jp": "6時15分にベイカー街を出て、サーペンタイン通りに着いた時にはまだ7時の10分前だった。"
+    },
+    {
+      "id": 405,
+      "chunks": [
+        { "en": "It was already dusk,", "jp": "「もう夕暮れだった、」" },
+        { "en": "and the lamps were just being lighted", "jp": "「街灯がちょうど灯され始めた」" },
+        { "en": "as we paced up and down", "jp": "「私たちが行ったり来たりするとき」" },
+        { "en": "in front of Briony Lodge,", "jp": "「ブライオニー荘の前を、」" },
+        { "en": "waiting for the coming of its occupant.", "jp": "「住人の到着を待ちながら。」" }
+      ],
+      "full_jp": "もう夕暮れで、ブライオニー荘の前を行ったり来たりしながら住人の帰宅を待つうちに、街灯にちょうど火が灯され始めた。"
+    },
+    {
+      "id": 406,
+      "chunks": [
+        { "en": "The house", "jp": "「家は」" },
+        { "en": "was just such as I had pictured it", "jp": "「ちょうど私が思い描いていた通りだった」" },
+        { "en": "from Sherlock Holmes' succinct description,", "jp": "「シャーロック・ホームズの簡潔な描写から、」" },
+        { "en": "but the locality appeared to be less private", "jp": "「だがその場所は私が予想したより」" },
+        { "en": "than I expected.", "jp": "「人目につく場所だった。」" }
+      ],
+      "full_jp": "家はホームズの簡潔な描写通りだったが、思っていたよりも人通りのある場所にあった。"
+    },
+    {
+      "id": 407,
+      "chunks": [
+        { "en": "On the contrary,", "jp": "「むしろその逆で、」" },
+        { "en": "for a small street", "jp": "「小さな通りにしては」" },
+        { "en": "in a quiet neighbourhood,", "jp": "「静かな界隈にある、」" },
+        { "en": "it was remarkably animated.", "jp": "「それは驚くほど賑やかだった。」" }
+      ],
+      "full_jp": "むしろ、静かな界隈の小さな通りにしては、驚くほど人通りが多かった。"
+    },
+    {
+      "id": 408,
+      "chunks": [
+        { "en": "There was a group of shabbily dressed men", "jp": "「みすぼらしい身なりの男たちの一群がいた」" },
+        { "en": "smoking and laughing in a corner,", "jp": "「角で煙草を吸い笑っている、」" },
+        { "en": "a scissors-grinder with his wheel,", "jp": "「車輪を持った刃物研ぎ屋、」" },
+        { "en": "two guardsmen", "jp": "「二人の近衛兵が」" },
+        { "en": "who were flirting with a nurse-girl,", "jp": "「乳母とふざけ合っている、」" },
+        { "en": "and several well-dressed young men", "jp": "「そして身なりの良い若い男たち数人が」" },
+        { "en": "who were lounging up and down", "jp": "「行ったり来たりぶらついている」" },
+        { "en": "with cigars in their mouths.", "jp": "「葉巻をくわえて。」" }
+      ],
+      "full_jp": "角ではみすぼらしい身なりの男たちが煙草を吸って笑い合い、車輪を引いた刃物研ぎ屋がいて、二人の近衛兵が乳母をからかい、葉巻をくわえた身なりの良い若い男たちが何人かぶらぶらと歩いていた。"
+    },
+    {
+      "id": 409,
+      "chunks": [
+        { "en": "You see,", "jp": "「いいかい、」" },
+        { "en": "remarked Holmes,", "jp": "とホームズは言った、" },
+        { "en": "as we paced to and fro", "jp": "「私たちが行ったり来たりしていた時、」" },
+        { "en": "in front of the house,", "jp": "「家の前を、」" },
+        { "en": "this marriage rather simplifies matters.", "jp": "「あの結婚はむしろ事を単純にしてくれる。」" }
+      ],
+      "full_jp": "家の前を行き来しながら、「いいかい、あの結婚は事をむしろ単純にしてくれるんだ」とホームズは言った。"
+    },
+    {
+      "id": 410,
+      "chunks": [
+        { "en": "The photograph becomes a double-edged weapon now.", "jp": "「写真は今や両刃の剣になった。」" }
+      ],
+      "full_jp": "「写真は今や両刃の剣だ。」"
+    },
+    {
+      "id": 411,
+      "chunks": [
+        { "en": "The chances are", "jp": "「可能性が高い」" },
+        { "en": "that she would be as averse", "jp": "「彼女は同じくらい嫌がるだろう」" },
+        { "en": "to its being seen by Mr. Godfrey Norton,", "jp": "「それがゴドフリー・ノートン氏に見られることを、」" },
+        { "en": "as our client is", "jp": "「我々の依頼人と同じく」" },
+        { "en": "to its coming to the eyes of his princess.", "jp": "「自分の王女の目に触れることを嫌がるのと。」" }
+      ],
+      "full_jp": "「依頼人(国王)が婚約者の王女に写真を見られたくないのと同じくらい、彼女もそれを夫ゴドフリー・ノートンに見られたくないはずだ。」"
+    },
+    {
+      "id": 412,
+      "chunks": [
+        { "en": "Now the question is,", "jp": "「問題は、」" },
+        { "en": "Where are we to find the photograph?", "jp": "「写真をどこで見つけるかだ。」" }
+      ],
+      "full_jp": "「問題は、写真をどこで見つけるかだ。」"
+    },
+    {
+      "id": 413,
+      "chunks": [
+        { "en": "Where, indeed?", "jp": "「まったく、どこなんだ?」" }
+      ],
+      "full_jp": "「本当に、どこにあるんだろう?」"
+    },
+    {
+      "id": 414,
+      "chunks": [
+        { "en": "It is most unlikely", "jp": "「ほとんどありえない」" },
+        { "en": "that she carries it about with her.", "jp": "「彼女がいつも持ち歩いているとは。」" }
+      ],
+      "full_jp": "「彼女がいつも持ち歩いているとは考えにくい。」"
+    },
+    {
+      "id": 415,
+      "chunks": [
+        { "en": "It is cabinet size.", "jp": "「キャビネット判だ。」" }
+      ],
+      "full_jp": "「キャビネット判だからね。」"
+    },
+    {
+      "id": 416,
+      "chunks": [
+        { "en": "Too large", "jp": "「大きすぎる」" },
+        { "en": "for easy concealment", "jp": "「容易に隠すには」" },
+        { "en": "about a woman's dress.", "jp": "「女性の服の中に。」" }
+      ],
+      "full_jp": "「女性の服の中に隠すには大きすぎる。」"
+    },
+    {
+      "id": 417,
+      "chunks": [
+        { "en": "She knows", "jp": "「彼女は知っている」" },
+        { "en": "that the King is capable", "jp": "「王が〜できることを」" },
+        { "en": "of having her waylaid and searched.", "jp": "「彼女を待ち伏せて持ち物検査することも。」" }
+      ],
+      "full_jp": "「王が彼女を待ち伏せして身体検査をさせかねないことは、彼女も承知している。」"
+    },
+    {
+      "id": 418,
+      "chunks": [
+        { "en": "Two attempts of the sort", "jp": "「その種の試みが二度」" },
+        { "en": "have already been made.", "jp": "「すでになされた。」" }
+      ],
+      "full_jp": "「現に、そういう試みは二度行われている。」"
+    },
+    {
+      "id": 419,
+      "chunks": [
+        { "en": "We may take it, then,", "jp": "「では我々はこう考えてよい、」" },
+        { "en": "that she does not carry it about with her.", "jp": "「彼女は持ち歩いてはいない。」" }
+      ],
+      "full_jp": "「だとすれば、彼女は写真を持ち歩いていないと考えてよい。」"
+    },
+    {
+      "id": 420,
+      "chunks": [
+        { "en": "Where, then?", "jp": "「では、どこに?」" }
+      ],
+      "full_jp": "「では、どこに?」"
     }
   ]
 }
