@@ -614,6 +614,520 @@
         { "en": "or address.", "jp": "住所も。" }
       ],
       "full_jp": "その手紙には日付も、署名も、住所もなかった。"
+    },
+    {
+      "id": 61,
+      "chunks": [
+        { "en": "There will call upon you", "jp": "「あなたを訪ねるだろう」" },
+        { "en": "to-night,", "jp": "「今夜、」" },
+        { "en": "at a quarter to eight o'clock,", "jp": "「7時45分に、」" },
+        { "en": "it said,", "jp": "とそれには書いてあった、" },
+        { "en": "a gentleman", "jp": "「ある紳士が」" },
+        { "en": "who desires to consult you", "jp": "「あなたに相談したがっている」" },
+        { "en": "upon a matter", "jp": "「ある事柄について」" },
+        { "en": "of the very deepest moment.", "jp": "「きわめて重大な。」" }
+      ],
+      "full_jp": "「今夜7時45分に、きわめて重大な件であなたに相談したい紳士があなたを訪ねるでしょう」とそこには書かれていた。"
+    },
+    {
+      "id": 62,
+      "chunks": [
+        { "en": "Your recent services", "jp": "「あなたの最近の働きは」" },
+        { "en": "to one of the royal houses of Europe", "jp": "「ヨーロッパのある王家への」" },
+        { "en": "have shown", "jp": "「示しています」" },
+        { "en": "that you are one", "jp": "「あなたが一人であると」" },
+        { "en": "who may safely be trusted", "jp": "「安心して任せられる」" },
+        { "en": "with matters", "jp": "「事柄を」" },
+        { "en": "which are of an importance", "jp": "「重要性のある」" },
+        { "en": "which can hardly be exaggerated.", "jp": "「ほとんど誇張できないほどの。」" }
+      ],
+      "full_jp": "「あなたが最近ヨーロッパのある王家のために果たされた働きは、これ以上ないほど重大な事柄を安心してお任せできる方であることを示しています。」"
+    },
+    {
+      "id": 63,
+      "chunks": [
+        { "en": "This account of you", "jp": "「あなたについてのこの評判は」" },
+        { "en": "we have from all quarters received.", "jp": "「私たちは至るところから受け取りました。」" }
+      ],
+      "full_jp": "「このようなあなたの評判は、私たちは方々から耳にしています。」"
+    },
+    {
+      "id": 64,
+      "chunks": [
+        { "en": "Be in your chamber then", "jp": "「ですからその時にはお部屋にいてください」" },
+        { "en": "at that hour,", "jp": "「その時刻に、」" },
+        { "en": "and do not take it amiss", "jp": "「そして悪く思わないでください」" },
+        { "en": "if your visitor wear a mask.", "jp": "「もし訪問者が仮面を着けていても。」" }
+      ],
+      "full_jp": "「ですから、その時刻にはお部屋にいてください。訪問者が仮面を着けていてもどうかご容赦ください。」"
+    },
+    {
+      "id": 65,
+      "chunks": [
+        { "en": "This is indeed a mystery,", "jp": "「これは確かに謎だな、」" },
+        { "en": "I remarked.", "jp": "と私は言った。" }
+      ],
+      "full_jp": "「これは確かに謎めいているね」と私は言った。"
+    },
+    {
+      "id": 66,
+      "chunks": [
+        { "en": "What do you imagine", "jp": "「君は何を想像する」" },
+        { "en": "that it means?", "jp": "「これが何を意味するか?」" }
+      ],
+      "full_jp": "「これは何を意味すると思う?」"
+    },
+    {
+      "id": 67,
+      "chunks": [
+        { "en": "I have no data yet.", "jp": "「まだデータが何もない。」" }
+      ],
+      "full_jp": "「まだ何もデータがない。」"
+    },
+    {
+      "id": 68,
+      "chunks": [
+        { "en": "It is a capital mistake", "jp": "「致命的な間違いだ」" },
+        { "en": "to theorize", "jp": "「理論を立てるのは」" },
+        { "en": "before one has data.", "jp": "「データを得る前に。」" }
+      ],
+      "full_jp": "「データを得る前に理論を組み立てるのは、致命的な間違いだ。」"
+    },
+    {
+      "id": 69,
+      "chunks": [
+        { "en": "Insensibly one begins", "jp": "「知らず知らずに人は始めるんだ」" },
+        { "en": "to twist facts", "jp": "「事実をねじ曲げることを」" },
+        { "en": "to suit theories,", "jp": "「理論に合わせるために、」" },
+        { "en": "instead of theories", "jp": "「理論ではなく」" },
+        { "en": "to suit facts.", "jp": "「事実に合わせるべき。」" }
+      ],
+      "full_jp": "「知らず知らずのうちに、人は理論に事実を合わせようとしてしまう。本来は事実に理論を合わせるべきなのに。」"
+    },
+    {
+      "id": 70,
+      "chunks": [
+        { "en": "But the note itself.", "jp": "「だが、この手紙そのものについては。」" },
+        { "en": "What do you deduce from it?", "jp": "「君はここから何を推理する?」" }
+      ],
+      "full_jp": "「だが、この手紙そのものからは何が推理できる?」"
+    },
+    {
+      "id": 71,
+      "chunks": [
+        { "en": "I carefully examined the writing,", "jp": "私は注意深く文字を調べた、" },
+        { "en": "and the paper", "jp": "そして紙を" },
+        { "en": "upon which it was written.", "jp": "それが書かれていた。" }
+      ],
+      "full_jp": "私はその文字と、書かれていた紙とを注意深く調べた。"
+    },
+    {
+      "id": 72,
+      "chunks": [
+        { "en": "The man who wrote it", "jp": "「これを書いた人物は」" },
+        { "en": "was presumably well to do,", "jp": "「おそらく裕福だろう、」" },
+        { "en": "I remarked,", "jp": "と私は言った、" },
+        { "en": "endeavouring to imitate", "jp": "真似ようとしながら" },
+        { "en": "my companion's processes.", "jp": "私の仲間のやり方を。" }
+      ],
+      "full_jp": "「これを書いた人物はおそらく裕福だろうね」と私は言った——ホームズのやり方を真似ようとして。"
+    },
+    {
+      "id": 73,
+      "chunks": [
+        { "en": "Such paper could not be bought", "jp": "「こんな紙は買えない」" },
+        { "en": "under half a crown a packet.", "jp": "「1パケット2シリング6ペンス以下では。」" }
+      ],
+      "full_jp": "「こんな紙は、1束で2シリング6ペンス以下では買えない。」"
+    },
+    {
+      "id": 74,
+      "chunks": [
+        { "en": "It is peculiarly strong and stiff.", "jp": "「特に丈夫で硬い。」" }
+      ],
+      "full_jp": "「これは特に厚くて丈夫だ。」"
+    },
+    {
+      "id": 75,
+      "chunks": [
+        { "en": "Peculiar — that is the very word,", "jp": "「特殊——まさにその言葉だ、」" },
+        { "en": "said Holmes.", "jp": "とホームズは言った。" }
+      ],
+      "full_jp": "「特殊——まさにその通りだ」とホームズは言った。"
+    },
+    {
+      "id": 76,
+      "chunks": [
+        { "en": "It is not an English paper at all.", "jp": "「これはまったく英国の紙ではない。」" } ],
+      "full_jp": "「これはそもそも英国の紙じゃない。」"
+    },
+    {
+      "id": 77,
+      "chunks": [
+        { "en": "Hold it up to the light.", "jp": "「光にかざしてごらん。」" }
+      ],
+      "full_jp": "「光に透かしてごらん。」"
+    },
+    {
+      "id": 78,
+      "chunks": [
+        { "en": "I did so,", "jp": "私はそうした、" },
+        { "en": "and saw a large E", "jp": "そして大きなEを見た" },
+        { "en": "with a small g,", "jp": "小さなgとともに、" },
+        { "en": "a P,", "jp": "Pを、" },
+        { "en": "and a large G", "jp": "そして大きなGを" },
+        { "en": "with a small t", "jp": "小さなtとともに" },
+        { "en": "woven into the texture of the paper.", "jp": "紙の織り目に編み込まれた。" }
+      ],
+      "full_jp": "私が言われた通りに透かして見ると、紙の織り目に「Eと小文字のg」「P」「Gと小文字のt」が編み込まれているのが見えた。"
+    },
+    {
+      "id": 79,
+      "chunks": [
+        { "en": "What do you make of that?", "jp": "「これをどう見る?」" },
+        { "en": "asked Holmes.", "jp": "とホームズが訊いた。" }
+      ],
+      "full_jp": "「これをどう思う?」とホームズは訊いた。"
+    },
+    {
+      "id": 80,
+      "chunks": [
+        { "en": "The name of the maker,", "jp": "「製造者の名前だろう、」" },
+        { "en": "no doubt;", "jp": "「間違いなく;」" },
+        { "en": "or his monogram, rather.", "jp": "「いや、製造者のモノグラム(組み合わせ文字)というべきか。」" }
+      ],
+      "full_jp": "「製造者の名前——いや、モノグラム(組み合わせ文字)だろうね、間違いなく。」"
+    },
+    {
+      "id": 81,
+      "chunks": [
+        { "en": "Not at all.", "jp": "「全然違う。」" }
+      ],
+      "full_jp": "「全然違うよ。」"
+    },
+    {
+      "id": 82,
+      "chunks": [
+        { "en": "The G with the small t", "jp": "「Gと小文字のtは」" },
+        { "en": "stands for 'Gesellschaft,'", "jp": "「『ゲゼルシャフト』を意味する、」" },
+        { "en": "which is the German for 'Company.'", "jp": "「これはドイツ語で『会社』だ。」" }
+      ],
+      "full_jp": "「Gと小文字のtは『Gesellschaft』を表す。ドイツ語で『会社』という意味だ。」"
+    },
+    {
+      "id": 83,
+      "chunks": [
+        { "en": "It is a customary contraction", "jp": "「これは慣用的な略語だ」" },
+        { "en": "like our 'Co.'", "jp": "「私たちの『Co.』のように。」" }
+      ],
+      "full_jp": "「英語の『Co.』と同じような、よくある略記だ。」"
+    },
+    {
+      "id": 84,
+      "chunks": [
+        { "en": "P, of course,", "jp": "「Pはもちろん、」" },
+        { "en": "stands for 'Papier.'", "jp": "「『パピア』、つまり紙という意味だ。」" }
+      ],
+      "full_jp": "「Pはもちろん『Papier』、紙のことだ。」"
+    },
+    {
+      "id": 85,
+      "chunks": [
+        { "en": "Now for the Eg.", "jp": "「さて、Egだが。」" }
+      ],
+      "full_jp": "「さて、Egの方だが。」"
+    },
+    {
+      "id": 86,
+      "chunks": [
+        { "en": "Let us glance", "jp": "「ちょっと目を通そう」" },
+        { "en": "at our Continental Gazetteer.", "jp": "「大陸地名辞典を。」" }
+      ],
+      "full_jp": "「大陸地名辞典をちょっと見てみよう。」"
+    },
+    {
+      "id": 87,
+      "chunks": [
+        { "en": "He took down", "jp": "彼は取り出した" },
+        { "en": "a heavy brown volume", "jp": "重厚な茶色の一冊を" },
+        { "en": "from his shelves.", "jp": "彼の書棚から。" }
+      ],
+      "full_jp": "彼は書棚から、ずっしりとした茶色の本を取り出した。"
+    },
+    {
+      "id": 88,
+      "chunks": [
+        { "en": "Eglow, Eglonitz —", "jp": "「エグロウ、エグロニッツ——」" },
+        { "en": "here we are,", "jp": "「あった、」" },
+        { "en": "Egria.", "jp": "「エグリアだ。」" }
+      ],
+      "full_jp": "「エグロウ、エグロニッツ——あった、エグリアだ。」"
+    },
+    {
+      "id": 89,
+      "chunks": [
+        { "en": "It is in a German-speaking country —", "jp": "「ドイツ語圏の国にある——」" },
+        { "en": "in Bohemia,", "jp": "「ボヘミアの、」" },
+        { "en": "not far from Carlsbad.", "jp": "「カールスバードから遠くない。」" }
+      ],
+      "full_jp": "「ドイツ語圏にある——ボヘミア地方、カールスバードから遠くない場所だ。」"
+    },
+    {
+      "id": 90,
+      "chunks": [
+        { "en": "The paper was made, then,", "jp": "「ということは紙はそこで作られた、」" },
+        { "en": "in Bohemia,", "jp": "「ボヘミアで、」" },
+        { "en": "I said.", "jp": "と私は言った。" }
+      ],
+      "full_jp": "「ということは、この紙はボヘミアで作られたんだね」と私は言った。"
+    },
+    {
+      "id": 91,
+      "chunks": [
+        { "en": "Precisely.", "jp": "「正確には。」" }
+      ],
+      "full_jp": "「その通り。」"
+    },
+    {
+      "id": 92,
+      "chunks": [
+        { "en": "And the man who wrote the note", "jp": "「そして手紙を書いた人物は」" },
+        { "en": "is a German.", "jp": "「ドイツ人だ。」" }
+      ],
+      "full_jp": "「そして手紙を書いた人物はドイツ人だ。」"
+    },
+    {
+      "id": 93,
+      "chunks": [
+        { "en": "Do you note", "jp": "「気づくかい」" },
+        { "en": "the peculiar construction", "jp": "「特殊な構造に」" },
+        { "en": "of the sentence —", "jp": "「文の——」" },
+        { "en": "'This account of you", "jp": "「『あなたについてのこの評判は」" },
+        { "en": "we have from all quarters received.'", "jp": "「我々は至るところから受け取った』。」" }
+      ],
+      "full_jp": "「文の特殊な構造に気づくかい——『あなたについてのこの評判を、我々は至るところから受け取った』というところだ。」"
+    },
+    {
+      "id": 94,
+      "chunks": [
+        { "en": "A Frenchman or Russian", "jp": "「フランス人やロシア人なら」" },
+        { "en": "could not have written that.", "jp": "「それは書けなかっただろう。」" }
+      ],
+      "full_jp": "「フランス人やロシア人にはこんな書き方はできない。」"
+    },
+    {
+      "id": 95,
+      "chunks": [
+        { "en": "It is the German", "jp": "「ドイツ人こそが」" },
+        { "en": "who is so uncourteous to his verbs.", "jp": "「動詞をぞんざいに扱う者だ。」" }
+      ],
+      "full_jp": "「動詞をこんなふうに無造作に扱うのはドイツ人だ。」"
+    },
+    {
+      "id": 96,
+      "chunks": [
+        { "en": "It only remains, therefore,", "jp": "「だから残るのは、」" },
+        { "en": "to discover what is wanted", "jp": "「何が求められているかを突き止めることだ」" },
+        { "en": "by this German", "jp": "「このドイツ人によって」" },
+        { "en": "who writes upon Bohemian paper", "jp": "「ボヘミアの紙に書いている」" },
+        { "en": "and prefers wearing a mask", "jp": "「そして仮面を好んでつける」" },
+        { "en": "to showing his face.", "jp": "「素顔を見せるよりも。」" }
+      ],
+      "full_jp": "「だから残る問題は、ボヘミアの紙に書き、素顔を見せるより仮面を好むこのドイツ人が、何を求めているかを突き止めることだけだ。」"
+    },
+    {
+      "id": 97,
+      "chunks": [
+        { "en": "And here he comes,", "jp": "「そして彼が来た、」" },
+        { "en": "if I am not mistaken,", "jp": "「私が間違っていなければ、」" },
+        { "en": "to resolve all our doubts.", "jp": "「我々の疑問をすべて解決するために。」" }
+      ],
+      "full_jp": "「そしてどうやら、その彼がやって来たようだ——我々の疑問をすべて解いてくれるためにね。」"
+    },
+    {
+      "id": 98,
+      "chunks": [
+        { "en": "As he spoke", "jp": "彼が話していると" },
+        { "en": "there was the sharp sound of horses' hoofs", "jp": "鋭い馬の蹄の音がした" },
+        { "en": "and grating wheels", "jp": "そして軋む車輪の音が" },
+        { "en": "against the curb,", "jp": "縁石にこすれる、" },
+        { "en": "followed by a sharp pull at the bell.", "jp": "それに続いて鋭くベルを引く音が。" }
+      ],
+      "full_jp": "彼がそう話していると、馬の蹄の音と縁石にこすれる車輪の音が鋭く響き、続いて勢いよくベルが鳴らされた。"
+    },
+    {
+      "id": 99,
+      "chunks": [
+        { "en": "Holmes whistled.", "jp": "ホームズは口笛を吹いた。" }
+      ],
+      "full_jp": "ホームズは口笛を鳴らした。"
+    },
+    {
+      "id": 100,
+      "chunks": [
+        { "en": "A pair,", "jp": "「二頭立てだな、」" },
+        { "en": "by the sound,", "jp": "「音からして、」" },
+        { "en": "said he.", "jp": "と彼は言った。" }
+      ],
+      "full_jp": "「音からすると二頭立ての馬車だな」と彼は言った。"
+    },
+    {
+      "id": 101,
+      "chunks": [
+        { "en": "Yes,", "jp": "「うむ、」" },
+        { "en": "he continued,", "jp": "と彼は続けた、" },
+        { "en": "glancing out of the window.", "jp": "窓の外を見ながら。" }
+      ],
+      "full_jp": "「うむ」と彼は窓の外を見ながら続けた。"
+    },
+    {
+      "id": 102,
+      "chunks": [
+        { "en": "A nice little brougham", "jp": "「立派な小型の馬車だ」" },
+        { "en": "and a pair of beauties.", "jp": "「そして二頭の見事な馬。」" }
+      ],
+      "full_jp": "「立派な小型の馬車に、見事な二頭の馬だ。」"
+    },
+    {
+      "id": 103,
+      "chunks": [
+        { "en": "A hundred and fifty guineas apiece.", "jp": "「一頭につき150ギニーはする。」" }
+      ],
+      "full_jp": "「一頭150ギニーはくだらないな。」"
+    },
+    {
+      "id": 104,
+      "chunks": [
+        { "en": "There's money in this case, Watson,", "jp": "「この件には金が絡んでいる、ワトソン、」" },
+        { "en": "if there is nothing else.", "jp": "「他に何もないとしても。」" }
+      ],
+      "full_jp": "「他に何もないとしても、この事件には金が絡んでいるよ、ワトソン。」"
+    },
+    {
+      "id": 105,
+      "chunks": [
+        { "en": "I think", "jp": "「思うに」" },
+        { "en": "that I had better go, Holmes.", "jp": "「私はそろそろ失礼すべきだろう、ホームズ。」" }
+      ],
+      "full_jp": "「ホームズ、私はそろそろ失礼したほうがよさそうだね。」"
+    },
+    {
+      "id": 106,
+      "chunks": [
+        { "en": "Not a bit, Doctor.", "jp": "「そんなことはない、君は。」" }
+      ],
+      "full_jp": "「とんでもない、ドクター。」"
+    },
+    {
+      "id": 107,
+      "chunks": [
+        { "en": "Stay where you are.", "jp": "「そこにいてくれたまえ。」" }
+      ],
+      "full_jp": "「そこにいてくれ。」"
+    },
+    {
+      "id": 108,
+      "chunks": [
+        { "en": "I am lost without my Boswell.", "jp": "「私は自分のボズウェルなしでは困ってしまう。」" }
+      ],
+      "full_jp": "「私の『ボズウェル』(=記録係)がいないと困るんだ。」"
+    },
+    {
+      "id": 109,
+      "chunks": [
+        { "en": "And this promises to be interesting.", "jp": "「そしてこれは面白くなりそうだ。」" }
+      ],
+      "full_jp": "「それにこれは面白くなりそうだぞ。」"
+    },
+    {
+      "id": 110,
+      "chunks": [
+        { "en": "It would be a pity", "jp": "「残念なことだ」" },
+        { "en": "to miss it.", "jp": "「これを逃すのは。」" }
+      ],
+      "full_jp": "「これを見逃したら惜しい。」"
+    },
+    {
+      "id": 111,
+      "chunks": [
+        { "en": "But your client —", "jp": "「だが君の依頼人は——」" }
+      ],
+      "full_jp": "「だが、君の依頼人が——」"
+    },
+    {
+      "id": 112,
+      "chunks": [
+        { "en": "Never mind him.", "jp": "「気にするな。」" }
+      ],
+      "full_jp": "「彼のことは気にするな。」"
+    },
+    {
+      "id": 113,
+      "chunks": [
+        { "en": "I may want your help,", "jp": "「私は君の助けが必要かもしれない、」" },
+        { "en": "and so may he.", "jp": "「そして彼もまた。」" }
+      ],
+      "full_jp": "「私も君の助けが必要かもしれないし、彼にしてもそうだ。」"
+    },
+    {
+      "id": 114,
+      "chunks": [
+        { "en": "Here he comes.", "jp": "「ほら、来たぞ。」" }
+      ],
+      "full_jp": "「ほら、来たぞ。」"
+    },
+    {
+      "id": 115,
+      "chunks": [
+        { "en": "Sit down in that armchair, Doctor,", "jp": "「その肘掛け椅子に座っていてくれ、ドクター、」" },
+        { "en": "and give us your best attention.", "jp": "「そして十分に注意を払ってくれ。」" }
+      ],
+      "full_jp": "「ドクター、その肘掛け椅子に座って、しっかり注意を払っていてくれ。」"
+    },
+    {
+      "id": 116,
+      "chunks": [
+        { "en": "A slow and heavy step,", "jp": "ゆっくりとした重い足音、" },
+        { "en": "which had been heard upon the stairs", "jp": "それは階段で聞こえていた" },
+        { "en": "and in the passage,", "jp": "そして廊下で、" },
+        { "en": "paused immediately outside the door.", "jp": "ドアのすぐ外で止まった。" }
+      ],
+      "full_jp": "階段と廊下で聞こえていたゆっくりとした重い足音が、ドアのすぐ外でぴたりと止まった。"
+    },
+    {
+      "id": 117,
+      "chunks": [
+        { "en": "Then there was a loud and authoritative tap.", "jp": "それから大きく威厳のあるノックの音がした。" }
+      ],
+      "full_jp": "それから、大きく威厳に満ちたノックの音が響いた。"
+    },
+    {
+      "id": 118,
+      "chunks": [
+        { "en": "Come in!", "jp": "「お入りください!」" },
+        { "en": "said Holmes.", "jp": "とホームズは言った。" }
+      ],
+      "full_jp": "「お入りください!」とホームズは言った。"
+    },
+    {
+      "id": 119,
+      "chunks": [
+        { "en": "A man entered", "jp": "一人の男が入ってきた" },
+        { "en": "who could hardly have been less than six feet six inches", "jp": "彼はおそらく6フィート6インチ(約198cm)を下らなかった" },
+        { "en": "in height,", "jp": "身長で、" },
+        { "en": "with the chest and limbs of a Hercules.", "jp": "ヘラクレスのような胸と手足を持っていた。" }
+      ],
+      "full_jp": "入ってきた男は、身長おそらく6フィート6インチ(約198cm)を下らず、ヘラクレスのような胸板と手足を備えていた。"
+    },
+    {
+      "id": 120,
+      "chunks": [
+        { "en": "His dress was rich", "jp": "彼の服装は豪奢だった" },
+        { "en": "with a richness", "jp": "豪奢さで" },
+        { "en": "which would, in England,", "jp": "それは英国では" },
+        { "en": "be looked upon as akin to bad taste.", "jp": "悪趣味に近いと見なされるような。" }
+      ],
+      "full_jp": "彼の服装は豪奢で、その豪奢さは英国であれば悪趣味と見なされかねないほどだった。"
     }
   ]
 }
