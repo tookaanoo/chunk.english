@@ -1,0 +1,131 @@
+{
+  "chapter": 1,
+  "title": "The Gettysburg Address",
+  "sentences": [
+    {
+      "id": 1,
+      "chunks": [
+        { "en": "Four score and seven years ago", "jp": "87年前に" },
+        { "en": "our fathers brought forth", "jp": "我々の父祖は生み出した" },
+        { "en": "on this continent,", "jp": "この大陸に、" },
+        { "en": "a new nation,", "jp": "新しい国家を、" },
+        { "en": "conceived in Liberty,", "jp": "自由の理念のもとに着想され、" },
+        { "en": "and dedicated to the proposition", "jp": "そして信条に捧げられた" },
+        { "en": "that all men are created equal.", "jp": "すべての人間は平等に創られているという。" }
+      ],
+      "full_jp": "87年前、我々の父祖はこの大陸に新しい国家を生み出した——自由の理念のもとに構想され、「すべての人間は平等に創られている」という信条に捧げられた国家を。"
+    },
+    {
+      "id": 2,
+      "chunks": [
+        { "en": "Now we are engaged", "jp": "今我々は従事している" },
+        { "en": "in a great civil war,", "jp": "大いなる内戦に、" },
+        { "en": "testing whether that nation,", "jp": "その国家が〜かどうか試される" },
+        { "en": "or any nation so conceived", "jp": "あるいはそのように構想された国家が" },
+        { "en": "and so dedicated,", "jp": "そしてそのように捧げられた、" },
+        { "en": "can long endure.", "jp": "長く存続しうるか。" }
+      ],
+      "full_jp": "今、我々は大いなる内戦の中にある——その国家が、あるいはそのように構想され、そのように捧げられたいかなる国家が、長く存続しうるかどうかを問われる戦いに。"
+    },
+    {
+      "id": 3,
+      "chunks": [
+        { "en": "We are met", "jp": "我々は集まっている" },
+        { "en": "on a great battle-field", "jp": "大いなる戦場に" },
+        { "en": "of that war.", "jp": "その戦争の。" }
+      ],
+      "full_jp": "我々は今、その戦争の偉大な戦場で集っている。"
+    },
+    {
+      "id": 4,
+      "chunks": [
+        { "en": "We have come", "jp": "我々はやって来た" },
+        { "en": "to dedicate a portion of that field,", "jp": "その戦場の一部を捧げるために、" },
+        { "en": "as a final resting place", "jp": "永遠の安息の地として" },
+        { "en": "for those who here gave their lives", "jp": "ここで命を捧げた人々のための" },
+        { "en": "that that nation might live.", "jp": "その国家が生き続けるようにと。" }
+      ],
+      "full_jp": "我々は、その戦場の一部を、この国家が生き続けるためにここで命を捧げた人々の永遠の安息の地として捧げるために来たのである。"
+    },
+    {
+      "id": 5,
+      "chunks": [
+        { "en": "It is altogether fitting and proper", "jp": "それはまったく相応しくふさわしい" },
+        { "en": "that we should do this.", "jp": "我々がこれを行うのは。" }
+      ],
+      "full_jp": "我々がこれを行うことは、まったく相応しく、ふさわしいことである。"
+    },
+    {
+      "id": 6,
+      "chunks": [
+        { "en": "But, in a larger sense,", "jp": "しかし、より大きな意味では、" },
+        { "en": "we can not dedicate —", "jp": "我々は捧げることはできない——" },
+        { "en": "we can not consecrate —", "jp": "我々は聖別することもできない——" },
+        { "en": "we can not hallow —", "jp": "我々は神聖化することもできない——" },
+        { "en": "this ground.", "jp": "この地を。" }
+      ],
+      "full_jp": "しかし、より広い意味において、我々はこの地を捧げることも、聖別することも、神聖化することもできない。"
+    },
+    {
+      "id": 7,
+      "chunks": [
+        { "en": "The brave men, living and dead,", "jp": "勇敢な人々——生者も死者も——が、" },
+        { "en": "who struggled here,", "jp": "ここで戦った、" },
+        { "en": "have consecrated it,", "jp": "すでにこの地を聖別している、" },
+        { "en": "far above our poor power", "jp": "我々の貧しい力をはるかに超えて" },
+        { "en": "to add or detract.", "jp": "付け加えたり減じたりする。" }
+      ],
+      "full_jp": "ここで戦った勇敢な人々——生者も死者も——が、すでにこの地を聖別している。我々の乏しい力で何かを付け加えたり減じたりすることなど到底及ばぬほどに。"
+    },
+    {
+      "id": 8,
+      "chunks": [
+        { "en": "The world will little note,", "jp": "世界はほとんど気にも留めず、" },
+        { "en": "nor long remember", "jp": "また長くは記憶しないだろう" },
+        { "en": "what we say here,", "jp": "我々がここで語ることを、" },
+        { "en": "but it can never forget", "jp": "しかし決して忘れることはできない" },
+        { "en": "what they did here.", "jp": "彼らがここで成したことを。" }
+      ],
+      "full_jp": "世界は我々がここで語ることをほとんど気にも留めず、長く記憶することもないだろう。しかし、彼らがここで成し遂げたことを、世界が忘れることは決してない。"
+    },
+    {
+      "id": 9,
+      "chunks": [
+        { "en": "It is for us the living, rather,", "jp": "むしろそれは、生きている我々のためのものなのだ、" },
+        { "en": "to be dedicated here", "jp": "ここで捧げられること" },
+        { "en": "to the unfinished work", "jp": "未完の事業に" },
+        { "en": "which they who fought here", "jp": "ここで戦った彼らが" },
+        { "en": "have thus far so nobly advanced.", "jp": "これまでかくも気高く進めてきた。" }
+      ],
+      "full_jp": "むしろ、ここで戦った人々がこれまで気高く進めてきた未完の事業に、自らを捧げるべきは、生きている我々である。"
+    },
+    {
+      "id": 10,
+      "chunks": [
+        { "en": "It is rather for us", "jp": "むしろ我々のためのものだ" },
+        { "en": "to be here dedicated", "jp": "ここで捧げられること" },
+        { "en": "to the great task remaining before us —", "jp": "我々の前に残された大いなる任務に——" },
+        { "en": "that from these honored dead", "jp": "これらの名誉ある死者から" },
+        { "en": "we take increased devotion", "jp": "我々はより強い献身を受け取る" },
+        { "en": "to that cause", "jp": "その大義に対する" },
+        { "en": "for which they gave", "jp": "彼らが捧げた" },
+        { "en": "the last full measure of devotion —", "jp": "献身の最後の全てを——" }
+      ],
+      "full_jp": "我々の前に残された大いなる任務にこそ、我々は自らを捧げるべきなのだ——名誉ある死者たちから、彼らが最後の一片まで捧げた大義への、より深い献身を受け継ぐべきなのだ——"
+    },
+    {
+      "id": 11,
+      "chunks": [
+        { "en": "that we here highly resolve", "jp": "我々がここで固く決意することを" },
+        { "en": "that these dead shall not have died in vain —", "jp": "これらの死者を無駄死にさせないと——" },
+        { "en": "that this nation, under God,", "jp": "この国家が、神のもとで、" },
+        { "en": "shall have a new birth of freedom —", "jp": "新たな自由の誕生を遂げると——" },
+        { "en": "and that government of the people,", "jp": "そして人民の政府が、" },
+        { "en": "by the people,", "jp": "人民による、" },
+        { "en": "for the people,", "jp": "人民のための、" },
+        { "en": "shall not perish from the earth.", "jp": "この地上から滅び去ることはないと。" }
+      ],
+      "full_jp": "——ここで我々が固く決意するのだ。これらの死者を無駄死にさせはしない、この国家は神のもとで自由の新たな誕生を迎える、そして人民の、人民による、人民のための政府が、この地上から滅び去ることは決してない、と。"
+    }
+  ]
+}

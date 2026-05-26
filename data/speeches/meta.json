@@ -1,0 +1,14 @@
+{
+  "id": "speeches",
+  "title": "Famous Speeches",
+  "author": "Various",
+  "chapters": [
+    {
+      "id": "gettysburg",
+      "number": 1,
+      "title": "The Gettysburg Address",
+      "subtitle": "ゲティスバーグ演説 (リンカーン, 1863)",
+      "file": "gettysburg.json"
+    }
+  ]
+}
