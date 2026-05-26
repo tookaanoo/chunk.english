@@ -225,6 +225,204 @@
         { "en": "to see me.", "jp": "私に会えて。" }
       ],
       "full_jp": "彼はめったに愛想がいいということはないのだが、私に会えて喜んでいるようだった。"
+    },
+    {
+      "id": 21,
+      "chunks": [
+        { "en": "With hardly a word spoken,", "jp": "ほとんど言葉も交わさずに、" },
+        { "en": "but with a kindly eye,", "jp": "しかし優しい目で、" },
+        { "en": "he waved me to an armchair,", "jp": "彼は私に肘掛け椅子を勧めた、" },
+        { "en": "threw across his case of cigars,", "jp": "葉巻のケースを投げてよこし、" },
+        { "en": "and indicated a spirit case", "jp": "そして酒の入った棚を指し示した" },
+        { "en": "and a gasogene in the corner.", "jp": "そして部屋の隅のソーダ水製造器を。" }
+      ],
+      "full_jp": "ほとんど何も言わずに、しかし優しい目で、彼は私に肘掛け椅子を勧め、葉巻のケースを投げてよこし、隅の酒棚とソーダ水製造器を指し示した。"
+    },
+    {
+      "id": 22,
+      "chunks": [
+        { "en": "Then he stood", "jp": "それから彼は立った" },
+        { "en": "before the fire", "jp": "暖炉の前に" },
+        { "en": "and looked me over", "jp": "そして私を眺めた" },
+        { "en": "in his singular introspective fashion.", "jp": "彼独特の内省的なやり方で。" }
+      ],
+      "full_jp": "それから彼は暖炉の前に立ち、彼独特の物思いに沈むような視線で私を眺めた。"
+    },
+    {
+      "id": 23,
+      "chunks": [
+        { "en": "Wedlock suits you,", "jp": "「結婚生活は君に合っているね、」" },
+        { "en": "he remarked.", "jp": "と彼は言った。" }
+      ],
+      "full_jp": "「結婚生活は君に合っているようだね」と彼は言った。"
+    },
+    {
+      "id": 24,
+      "chunks": [
+        { "en": "I think, Watson,", "jp": "「思うに、ワトソン、」" },
+        { "en": "that you have put on", "jp": "「君は増やしたね」" },
+        { "en": "seven and a half pounds", "jp": "「7ポンド半」" },
+        { "en": "since I saw you.", "jp": "「私が君に会って以来。」" }
+      ],
+      "full_jp": "「ワトソン、私が最後に会ってから、君は7ポンド半ほど太ったようだね。」"
+    },
+    {
+      "id": 25,
+      "chunks": [
+        { "en": "Seven,", "jp": "「7だ、」" },
+        { "en": "I answered.", "jp": "と私は答えた。" }
+      ],
+      "full_jp": "「7ポンドだ」と私は答えた。"
+    },
+    {
+      "id": 26,
+      "chunks": [
+        { "en": "Indeed,", "jp": "「ほう、」" },
+        { "en": "I should have thought", "jp": "「私は思っていたのだが」" },
+        { "en": "a little more.", "jp": "「もう少しあると。」" },
+        { "en": "Just a trifle more,", "jp": "「ほんのわずか多いと、」" },
+        { "en": "I fancy, Watson.", "jp": "「と思うんだがね、ワトソン。」" }
+      ],
+      "full_jp": "「そうかね、もう少しあるかと思ったよ。ほんのわずかね、ワトソン。」"
+    },
+    {
+      "id": 27,
+      "chunks": [
+        { "en": "And in practice again,", "jp": "「そして開業医に戻ったんだね、」" },
+        { "en": "I observe.", "jp": "「と見受けるが。」" }
+      ],
+      "full_jp": "「それに、また開業医に戻ったようだね。」"
+    },
+    {
+      "id": 28,
+      "chunks": [
+        { "en": "You did not tell me", "jp": "「君は私に言わなかった」" },
+        { "en": "that you intended", "jp": "「君がそうするつもりだと」" },
+        { "en": "to go into harness.", "jp": "「仕事に戻ると。」" }
+      ],
+      "full_jp": "「仕事に戻るつもりだとは、君は言っていなかったね。」"
+    },
+    {
+      "id": 29,
+      "chunks": [
+        { "en": "Then, how do you know?", "jp": "「ではどうして分かるんだ?」" }
+      ],
+      "full_jp": "「では、どうして分かるんだ?」"
+    },
+    {
+      "id": 30,
+      "chunks": [
+        { "en": "I see it,", "jp": "「分かるのさ、」" },
+        { "en": "I deduce it.", "jp": "「推理によってね。」" }
+      ],
+      "full_jp": "「見れば分かる。推理によってだ。」"
+    },
+    {
+      "id": 31,
+      "chunks": [
+        { "en": "How do I know", "jp": "「どうして私が分かるか」" },
+        { "en": "that you have been getting yourself", "jp": "「君が自分自身を〜にしてきたと」" },
+        { "en": "very wet lately,", "jp": "「最近ひどく濡らしていると、」" },
+        { "en": "and that you have a most clumsy", "jp": "「そして君がひどく不器用な〜を持っていると」" },
+        { "en": "and careless servant girl?", "jp": "「そして不注意な召使いの女性を?」" }
+      ],
+      "full_jp": "「君が最近ひどく雨に降られたこと、そして君がとても不器用で不注意な女中を雇っていることが、なぜ分かるか?」"
+    },
+    {
+      "id": 32,
+      "chunks": [
+        { "en": "My dear Holmes,", "jp": "「ホームズ君、」" },
+        { "en": "I said,", "jp": "と私は言った、" },
+        { "en": "this is too much.", "jp": "「これはあんまりだ。」" }
+      ],
+      "full_jp": "「ホームズ、これはあんまりだよ」と私は言った。"
+    },
+    {
+      "id": 33,
+      "chunks": [
+        { "en": "You would certainly have been burned,", "jp": "「君は確かに焼かれていただろう、」" },
+        { "en": "had you lived", "jp": "「もし君が生きていたなら」" },
+        { "en": "a few centuries ago.", "jp": "「数世紀前に。」" }
+      ],
+      "full_jp": "「数世紀前に生きていたら、君は確実に火あぶりにされていただろうね。」"
+    },
+    {
+      "id": 34,
+      "chunks": [
+        { "en": "It is true", "jp": "「本当だよ」" },
+        { "en": "that I had a country walk", "jp": "「私は田舎を歩いたんだ」" },
+        { "en": "on Thursday", "jp": "「木曜日に」" },
+        { "en": "and came home", "jp": "「そして家に帰った」" },
+        { "en": "in a dreadful mess,", "jp": "「ひどく汚れて、」" },
+        { "en": "but as I have changed my clothes", "jp": "「しかし私は服を着替えたので」" },
+        { "en": "I can't imagine", "jp": "「想像できない」" },
+        { "en": "how you deduce it.", "jp": "「どうやって君が推理したのか。」" }
+      ],
+      "full_jp": "「確かに、木曜日に田舎を歩いてひどく汚れて帰ってきたが、もう着替えたんだ。どうやって推理したのか想像もつかない。」"
+    },
+    {
+      "id": 35,
+      "chunks": [
+        { "en": "As to Mary Jane,", "jp": "「メアリー・ジェーンに関しては、」" },
+        { "en": "she is incorrigible,", "jp": "「彼女は救いようがない、」" },
+        { "en": "and my wife has given her notice;", "jp": "「妻は彼女に解雇通知を出した;」" },
+        { "en": "but there again", "jp": "「しかしそこでもまた」" },
+        { "en": "I fail to see", "jp": "「私には分からない」" },
+        { "en": "how you work it out.", "jp": "「どうやって君がそれを導き出したのか。」" }
+      ],
+      "full_jp": "「メアリー・ジェーン(女中)は救いようがなくて、妻が解雇通知を出したよ。でもそれも、どうやって君が推理したのか分からない。」"
+    },
+    {
+      "id": 36,
+      "chunks": [
+        { "en": "He chuckled to himself", "jp": "彼は一人くすくす笑った" },
+        { "en": "and rubbed his long, nervous hands together.", "jp": "そして長くて神経質な手をこすり合わせた。" }
+      ],
+      "full_jp": "彼はくすりと笑い、長くて神経質な両手をこすり合わせた。"
+    },
+    {
+      "id": 37,
+      "chunks": [
+        { "en": "It is simplicity itself,", "jp": "「単純そのものだよ、」" },
+        { "en": "said he;", "jp": "と彼は言った;" }
+      ],
+      "full_jp": "「ごく単純なことさ」と彼は言った。"
+    },
+    {
+      "id": 38,
+      "chunks": [
+        { "en": "my eyes tell me", "jp": "「私の目が教えてくれる」" },
+        { "en": "that on the inside of your left shoe,", "jp": "「君の左の靴の内側に、」" },
+        { "en": "just where the firelight strikes it,", "jp": "「ちょうど暖炉の光が当たるところに、」" },
+        { "en": "the leather is scored", "jp": "「革に刻まれている」" },
+        { "en": "by six almost parallel cuts.", "jp": "「ほぼ平行な6本の傷で。」" }
+      ],
+      "full_jp": "「私の目が告げているんだ。君の左の靴の内側、ちょうど暖炉の火が当たるところに、ほぼ平行に6本の傷が刻まれている、とね。」"
+    },
+    {
+      "id": 39,
+      "chunks": [
+        { "en": "Obviously they have been caused", "jp": "「明らかに、それらは引き起こされた」" },
+        { "en": "by someone", "jp": "「誰かによって」" },
+        { "en": "who has very carelessly scraped", "jp": "「ひどく不注意にこすった」" },
+        { "en": "round the edges of the sole", "jp": "「靴底の縁のまわりを」" },
+        { "en": "in order to remove crusted mud", "jp": "「乾いた泥を取り除くために」" },
+        { "en": "from it.", "jp": "「そこから。」" }
+      ],
+      "full_jp": "「明らかに、それは誰かが乾いた泥を落とそうとして、靴底の縁をひどく雑にこすったせいだ。」"
+    },
+    {
+      "id": 40,
+      "chunks": [
+        { "en": "Hence, you see,", "jp": "「ゆえに、ほら、」" },
+        { "en": "my double deduction", "jp": "「私の二重の推理が成り立つ」" },
+        { "en": "that you had been out", "jp": "「君が外出していたと」" },
+        { "en": "in vile weather,", "jp": "「ひどい天気の中、」" },
+        { "en": "and that you had a particularly malignant", "jp": "「そして君が特にひどい〜を持っていると」" },
+        { "en": "boot-slitting specimen", "jp": "「靴を切り裂くような典型例の」" },
+        { "en": "of the London slavey.", "jp": "「ロンドンの女中という。」" }
+      ],
+      "full_jp": "「だから、ほら、二重の推理が成り立つわけだ——君がひどい天気の中外出したこと、そして君が特にひどい靴の扱いをする典型的なロンドンの女中を雇っていることのね。」"
     }
   ]
 }
