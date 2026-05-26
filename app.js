@@ -337,6 +337,86 @@ function advanceChunk() {
   }
 }
 
+function prevChunk() {
+  const sentences = getSentences();
+  const sentence = sentences[state.sentenceIdx];
+  const chunkRow = document.getElementById('chunk-row');
+  const fullJpRow = document.getElementById('full-jp-row');
+  const jpRow = document.getElementById('jp-row');
+  const progress = document.getElementById('progress');
+
+  // Case 1: full_jp is visible (we're past the last chunk) → just hide it
+  if (fullJpRow.classList.contains('visible')) {
+    fullJpRow.classList.remove('visible');
+    fullJpRow.textContent = '';
+    state.chunkIdx = sentence.chunks.length - 1;
+    // Restore opacity of the last chunk (since chunkIdx changed)
+    Array.from(chunkRow.children).forEach((el, i) => {
+      if (i < state.chunkIdx) {
+        const dist = state.chunkIdx - i;
+        el.style.opacity = Math.max(0, 0.5 - dist * 0.2);
+        el.style.filter = `blur(${Math.min(3, dist * 1.2)}px)`;
+      } else {
+        el.style.opacity = '1';
+        el.style.filter = 'none';
+      }
+    });
+    progress.textContent = `Sentence ${state.sentenceIdx + 1} / ${sentences.length}  ·  Chunk ${state.chunkIdx + 1} / ${sentence.chunks.length}`;
+    return;
+  }
+
+  // Case 2: at chunk 0 → go to previous sentence's last chunk
+  if (state.chunkIdx === 0) {
+    if (state.sentenceIdx > 0) {
+      state.sentenceIdx--;
+      const prevSentence = sentences[state.sentenceIdx];
+      state.chunkIdx = 0;
+      chunkRow.innerHTML = '';
+      // Render all chunks of prev sentence, then move to the last
+      for (let i = 0; i < prevSentence.chunks.length; i++) {
+        const span = document.createElement('span');
+        span.textContent = prevSentence.chunks[i].en;
+        span.style.opacity = '1';
+        chunkRow.appendChild(span);
+      }
+      state.chunkIdx = prevSentence.chunks.length - 1;
+      // Apply fade to all but last
+      Array.from(chunkRow.children).forEach((el, i) => {
+        if (i < state.chunkIdx) {
+          const dist = state.chunkIdx - i;
+          el.style.opacity = Math.max(0, 0.5 - dist * 0.2);
+          el.style.filter = `blur(${Math.min(3, dist * 1.2)}px)`;
+        }
+      });
+      jpRow.textContent = '';
+      speak(prevSentence.chunks[state.chunkIdx].en);
+      progress.textContent = `Sentence ${state.sentenceIdx + 1} / ${sentences.length}  ·  Chunk ${state.chunkIdx + 1} / ${prevSentence.chunks.length}`;
+    }
+    return;
+  }
+
+  // Case 3: normal step back within a sentence
+  state.chunkIdx--;
+  // Remove the last span (the one that was just added on the forward step)
+  if (chunkRow.lastChild) {
+    chunkRow.removeChild(chunkRow.lastChild);
+  }
+  // Restore opacity for the new current chunk and earlier chunks
+  Array.from(chunkRow.children).forEach((el, i) => {
+    if (i < state.chunkIdx) {
+      const dist = state.chunkIdx - i;
+      el.style.opacity = Math.max(0, 0.5 - dist * 0.2);
+      el.style.filter = `blur(${Math.min(3, dist * 1.2)}px)`;
+    } else {
+      el.style.opacity = '1';
+      el.style.filter = 'none';
+    }
+  });
+  jpRow.textContent = '';
+  speak(sentence.chunks[state.chunkIdx].en);
+  progress.textContent = `Sentence ${state.sentenceIdx + 1} / ${sentences.length}  ·  Chunk ${state.chunkIdx + 1} / ${sentence.chunks.length}`;
+}
+
 function advanceSentence() {
   const sentences = getSentences();
   if (state.sentenceIdx < sentences.length - 1) {
@@ -413,6 +493,7 @@ function init() {
   // Learning controls
   document.getElementById('show-jp').addEventListener('click', showJp);
   document.getElementById('next-chunk').addEventListener('click', advanceChunk);
+  document.getElementById('prev-chunk').addEventListener('click', prevChunk);
   document.getElementById('next-sentence').addEventListener('click', advanceSentence);
   document.getElementById('prev-sentence').addEventListener('click', prevSentence);
   document.getElementById('mode-toggle').addEventListener('click', toggleMode);

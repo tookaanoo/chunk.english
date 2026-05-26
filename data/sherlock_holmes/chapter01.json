@@ -2525,6 +2525,1087 @@
         { "en": "Chubb lock to the door.", "jp": "「ドアにはチャブ錠。」" }
       ],
       "full_jp": "「ドアにはチャブ錠が付いている。」"
+    },
+    {
+      "id": 281,
+      "chunks": [
+        { "en": "Large sitting-room", "jp": "「大きな居間が」" },
+        { "en": "on the right side,", "jp": "「右側にある、」" },
+        { "en": "well furnished,", "jp": "「家具が立派で、」" },
+        { "en": "with long windows", "jp": "「縦長の窓があり」" },
+        { "en": "almost to the floor,", "jp": "「ほとんど床まで届く、」" },
+        { "en": "and those preposterous English window fasteners", "jp": "「そして例の馬鹿げた英国式の窓の留め金」" },
+        { "en": "which a child could open.", "jp": "「子供でも開けられる。」" }
+      ],
+      "full_jp": "「右側に立派な家具を備えた大きな居間があって、ほとんど床まで届く縦長の窓がある——それに例の馬鹿げた英国式の窓の留め金が付いていて、子供でも開けられる代物だ。」"
+    },
+    {
+      "id": 282,
+      "chunks": [
+        { "en": "Behind there was nothing remarkable,", "jp": "「裏手には目立つものは何もなかった、」" },
+        { "en": "save that the passage window", "jp": "「廊下の窓を除いては」" },
+        { "en": "could be reached", "jp": "「届きうる」" },
+        { "en": "from the top of the coach-house.", "jp": "「馬車小屋の屋根から。」" }
+      ],
+      "full_jp": "「裏手には特に目立つものはなかった——ただ、馬車小屋の屋根から廊下の窓に手が届くという点を除いてはね。」"
+    },
+    {
+      "id": 283,
+      "chunks": [
+        { "en": "I walked round it", "jp": "「私はその周りを歩いた」" },
+        { "en": "and examined it closely", "jp": "「そして注意深く調べた」" },
+        { "en": "from every point of view,", "jp": "「あらゆる角度から、」" },
+        { "en": "but without noting anything else of interest.", "jp": "「だが他に興味を引くものはなかった。」" }
+      ],
+      "full_jp": "「私は家の周りを一周し、あらゆる角度から注意深く調べたが、他に目を引くものはなかった。」"
+    },
+    {
+      "id": 284,
+      "chunks": [
+        { "en": "I then lounged down the street", "jp": "「それから私は通りをぶらついた」" },
+        { "en": "and found,", "jp": "「そして見つけた、」" },
+        { "en": "as I expected,", "jp": "「予想通り、」" },
+        { "en": "that there was a mews", "jp": "「裏路地があったのを」" },
+        { "en": "in a lane", "jp": "「小道にある」" },
+        { "en": "which runs down by one wall of the garden.", "jp": "「庭の片側の壁沿いに走る。」" }
+      ],
+      "full_jp": "「それから通りをぶらつくと、予想通り、庭の壁沿いの小道に厩舎街(裏路地)があった。」"
+    },
+    {
+      "id": 285,
+      "chunks": [
+        { "en": "I lent the ostlers a hand", "jp": "「私は厩務員たちに手を貸した」" },
+        { "en": "in rubbing down their horses,", "jp": "「彼らの馬をブラッシングするのに、」" },
+        { "en": "and received in exchange", "jp": "「そして引き換えに受け取った」" },
+        { "en": "twopence,", "jp": "「2ペンスと、」" },
+        { "en": "a glass of half-and-half,", "jp": "「ハーフ・アンド・ハーフ(ビールとエールの半々)を一杯、」" },
+        { "en": "two fills of shag tobacco,", "jp": "「シャグ煙草を2回分、」" },
+        { "en": "and as much information", "jp": "「そして情報を山ほど」" },
+        { "en": "as I could desire", "jp": "「私が望むだけ」" },
+        { "en": "about Miss Adler,", "jp": "「アドラー嬢について、」" },
+        { "en": "to say nothing of half a dozen other people", "jp": "「他に半ダースの人々については言うまでもなく」" },
+        { "en": "in the neighbourhood,", "jp": "「近所の、」" },
+        { "en": "in whom I was not in the least interested,", "jp": "「私はまったく関心がなかったが、」" },
+        { "en": "but whose biographies", "jp": "「だがその経歴を」" },
+        { "en": "I was compelled to listen to.", "jp": "「聞かされる羽目になった。」" }
+      ],
+      "full_jp": "「厩務員たちの馬の手入れを手伝うと、見返りに2ペンス、ハーフ・アンド・ハーフのビール一杯、シャグ煙草2回分、そして欲しいだけのアドラー嬢に関する情報を手に入れた——興味もない近所の半ダースの人物の身の上話まで、ついでに聞かされる羽目になったがね。」"
+    },
+    {
+      "id": 286,
+      "chunks": [
+        { "en": "And what of Irene Adler?", "jp": "「それでアイリーン・アドラーは?」" },
+        { "en": "I asked.", "jp": "と私は尋ねた。" }
+      ],
+      "full_jp": "「それで、アイリーン・アドラーについては?」と私は尋ねた。"
+    },
+    {
+      "id": 287,
+      "chunks": [
+        { "en": "Oh,", "jp": "「いやあ、」" },
+        { "en": "she has turned all the men's heads down in that part.", "jp": "「あのあたりの男どもの頭をみんな狂わせている。」" }
+      ],
+      "full_jp": "「あの近所の男たちは、皆こぞって彼女に夢中なんだ。」"
+    },
+    {
+      "id": 288,
+      "chunks": [
+        { "en": "She is the daintiest thing", "jp": "「彼女は最も愛らしい存在だ」" },
+        { "en": "under a bonnet on this planet.", "jp": "「この地上でボンネットを被った中で。」" }
+      ],
+      "full_jp": "「ボンネットを被った女性の中では、この世で一番愛らしいというのが彼らの評だ。」"
+    },
+    {
+      "id": 289,
+      "chunks": [
+        { "en": "So say the Serpentine-mews,", "jp": "「サーペンタイン厩舎街の連中はそう言う、」" },
+        { "en": "to a man.", "jp": "「全員一致で。」" }
+      ],
+      "full_jp": "「サーペンタイン厩舎街の連中は、全員一致でそう言うんだ。」"
+    },
+    {
+      "id": 290,
+      "chunks": [
+        { "en": "She lives quietly,", "jp": "「彼女は静かに暮らしている、」" },
+        { "en": "sings at concerts,", "jp": "「コンサートで歌い、」" },
+        { "en": "drives out at five every day,", "jp": "「毎日5時に馬車で出かけ、」" },
+        { "en": "and returns at seven sharp for dinner.", "jp": "「7時きっかりに夕食に戻る。」" }
+      ],
+      "full_jp": "「彼女は静かに暮らしていて、コンサートで歌い、毎日5時に馬車で出かけては7時きっかりに夕食のために戻ってくる。」"
+    },
+    {
+      "id": 291,
+      "chunks": [
+        { "en": "Seldom goes out at other times,", "jp": "「他の時間にはめったに外出しない、」" },
+        { "en": "except when she sings.", "jp": "「歌うときを除いて。」" }
+      ],
+      "full_jp": "「歌うとき以外は、他の時間に外出することはほとんどない。」"
+    },
+    {
+      "id": 292,
+      "chunks": [
+        { "en": "Has only one male visitor,", "jp": "「男性の訪問者はただ一人、」" },
+        { "en": "but a good deal of him.", "jp": "「だが頻繁にやってくる。」" }
+      ],
+      "full_jp": "「男性の訪問者はたった一人だが、頻繁にやってくる。」"
+    },
+    {
+      "id": 293,
+      "chunks": [
+        { "en": "He is dark, handsome, and dashing,", "jp": "「彼は黒髪で、ハンサムで、颯爽としていて、」" },
+        { "en": "never calls less than once a day,", "jp": "「一日一度より少なく訪れたことはない、」" },
+        { "en": "and often twice.", "jp": "「しばしば二度も。」" }
+      ],
+      "full_jp": "「黒髪でハンサム、颯爽とした男で、毎日少なくとも一度は——時には二度も——訪ねてくる。」"
+    },
+    {
+      "id": 294,
+      "chunks": [
+        { "en": "He is a Mr. Godfrey Norton,", "jp": "「ゴドフリー・ノートン氏という、」" },
+        { "en": "of the Inner Temple.", "jp": "「インナー・テンプル所属の。」" }
+      ],
+      "full_jp": "「インナー・テンプル所属のゴドフリー・ノートン氏という男だ。」"
+    },
+    {
+      "id": 295,
+      "chunks": [
+        { "en": "See the advantages", "jp": "「利点を見てくれ」" },
+        { "en": "of a cabman as a confidant.", "jp": "「打ち明け話の相手として御者を使うことの。」" }
+      ],
+      "full_jp": "「打ち明け相手として御者を使うことの利点をわかってくれ。」"
+    },
+    {
+      "id": 296,
+      "chunks": [
+        { "en": "They had driven him home", "jp": "「彼らは何度も彼を家まで送ったことがあった」" },
+        { "en": "a dozen times", "jp": "「12回ほど」" },
+        { "en": "from Serpentine-mews,", "jp": "「サーペンタイン厩舎街から、」" },
+        { "en": "and knew all about him.", "jp": "「そして彼のことは何でも知っていた。」" }
+      ],
+      "full_jp": "「彼らはサーペンタイン厩舎街から彼を家まで12回も送ったことがあって、彼のことなら何でも知っていた。」"
+    },
+    {
+      "id": 297,
+      "chunks": [
+        { "en": "When I had listened to all", "jp": "「私がすべてを聞き終えた時」" },
+        { "en": "they had to tell,", "jp": "「彼らが話してくれる分の、」" },
+        { "en": "I began to walk up and down near Briony Lodge", "jp": "「私はブライオニー荘の近くを歩き回り始めた」" },
+        { "en": "once more,", "jp": "「再び、」" },
+        { "en": "and to think over my plan of campaign.", "jp": "「そして作戦計画を練り始めた。」" }
+      ],
+      "full_jp": "「彼らから聞き出せることをすべて聞いた後、私は再びブライオニー荘の近くを歩き回り、作戦の計画を練り始めた。」"
+    },
+    {
+      "id": 298,
+      "chunks": [
+        { "en": "This Godfrey Norton", "jp": "「このゴドフリー・ノートンは」" },
+        { "en": "was evidently an important factor", "jp": "「明らかに重要な要素だった」" },
+        { "en": "in the matter.", "jp": "「この件における。」" }
+      ],
+      "full_jp": "「このゴドフリー・ノートンは、明らかにこの件における重要な要素だ。」"
+    },
+    {
+      "id": 299,
+      "chunks": [
+        { "en": "He was a lawyer.", "jp": "「彼は弁護士だ。」" }
+      ],
+      "full_jp": "「彼は弁護士だ。」"
+    },
+    {
+      "id": 300,
+      "chunks": [
+        { "en": "That sounded ominous.", "jp": "「それは不吉に聞こえた。」" }
+      ],
+      "full_jp": "「そこが不吉に響いた。」"
+    },
+    {
+      "id": 301,
+      "chunks": [
+        { "en": "What was the relation between them,", "jp": "「二人の関係は何だったのか、」" },
+        { "en": "and what the object", "jp": "「そして目的は何だったのか」" },
+        { "en": "of his repeated visits?", "jp": "「彼の度重なる訪問の?」" }
+      ],
+      "full_jp": "「二人はどういう関係で、彼が何度も訪ねてくる目的は何なのか?」"
+    },
+    {
+      "id": 302,
+      "chunks": [
+        { "en": "Was she his client,", "jp": "「彼女は彼の依頼人なのか、」" },
+        { "en": "his friend,", "jp": "「友人なのか、」" },
+        { "en": "or his mistress?", "jp": "「それとも愛人なのか?」" }
+      ],
+      "full_jp": "「彼女は彼の依頼人なのか、友人なのか、それとも愛人なのか?」"
+    },
+    {
+      "id": 303,
+      "chunks": [
+        { "en": "If the former,", "jp": "「もし前者なら、」" },
+        { "en": "she had probably transferred the photograph", "jp": "「彼女はおそらく写真を渡している」" },
+        { "en": "to his keeping.", "jp": "「彼の保管に。」" }
+      ],
+      "full_jp": "「前者なら、彼女はおそらく写真を彼に預けているだろう。」"
+    },
+    {
+      "en_note": "—",
+      "id": 304,
+      "chunks": [
+        { "en": "If the latter,", "jp": "「もし後者なら、」" },
+        { "en": "it was less likely.", "jp": "「その可能性は低い。」" }
+      ],
+      "full_jp": "「後者なら、その可能性は低い。」"
+    },
+    {
+      "id": 305,
+      "chunks": [
+        { "en": "On the issue of this question", "jp": "「この問いの結果次第で」" },
+        { "en": "depended whether I should continue my work", "jp": "「私が仕事を続けるかが決まる」" },
+        { "en": "at Briony Lodge,", "jp": "「ブライオニー荘で、」" },
+        { "en": "or turn my attention", "jp": "「あるいは関心を向けるか」" },
+        { "en": "to the gentleman's chambers in the Temple.", "jp": "「テンプル法学院にある紳士の事務所に。」" }
+      ],
+      "full_jp": "「この問いの答え次第で、私の調査をブライオニー荘で続けるか、テンプル法学院にある彼の事務所に向けるかが決まる。」"
+    },
+    {
+      "id": 306,
+      "chunks": [
+        { "en": "It was a delicate point,", "jp": "「微妙な問題だった、」" },
+        { "en": "and it widened the field of my inquiry.", "jp": "「そして調査範囲を広げてしまった。」" }
+      ],
+      "full_jp": "「微妙な問題で、調査の範囲を広げてしまった。」"
+    },
+    {
+      "id": 307,
+      "chunks": [
+        { "en": "I fear", "jp": "「申し訳ないが」" },
+        { "en": "that I bore you with these details,", "jp": "「こうした細部で君を退屈させているね、」" },
+        { "en": "but I have to let you see", "jp": "「だが見せておかねばならないのだ」" },
+        { "en": "my little difficulties,", "jp": "「私のささやかな困難を、」" },
+        { "en": "if you are to understand the situation.", "jp": "「もし君が状況を理解しようというなら。」" }
+      ],
+      "full_jp": "「こうした細部で退屈させているかもしれないが、状況を理解してもらうには、私が直面したささやかな困難を知ってもらわねばならない。」"
+    },
+    {
+      "id": 308,
+      "chunks": [
+        { "en": "I am following you closely,", "jp": "「しっかり付いていっているよ、」" },
+        { "en": "I answered.", "jp": "と私は答えた。" }
+      ],
+      "full_jp": "「しっかり付いていっているよ」と私は答えた。"
+    },
+    {
+      "id": 309,
+      "chunks": [
+        { "en": "I was still balancing the matter in my mind", "jp": "「私はまだ頭の中で天秤にかけていた」" },
+        { "en": "when a hansom cab drove up to Briony Lodge,", "jp": "「ハンサム馬車がブライオニー荘に乗り付けたとき、」" },
+        { "en": "and a gentleman sprang out.", "jp": "「そして紳士が一人飛び降りた。」" }
+      ],
+      "full_jp": "「まだ私が考えを巡らせている時、一台のハンサム馬車がブライオニー荘に乗り付け、一人の紳士が飛び降りた。」"
+    },
+    {
+      "id": 310,
+      "chunks": [
+        { "en": "He was a remarkably handsome man,", "jp": "「彼は際立ってハンサムな男だった、」" },
+        { "en": "dark, aquiline, and moustached —", "jp": "「黒髪で、鷲鼻、口髭を生やしていた——」" },
+        { "en": "evidently the man", "jp": "「明らかにその男だ」" },
+        { "en": "of whom I had heard.", "jp": "「私が聞いていた。」" }
+      ],
+      "full_jp": "「際立ってハンサムな男で、黒髪、鷲鼻、口髭——間違いなく私が話を聞いていたあの男だった。」"
+    },
+    {
+      "id": 311,
+      "chunks": [
+        { "en": "He appeared to be in a great hurry,", "jp": "「彼はひどく急いでいるようだった、」" },
+        { "en": "shouted to the cabman to wait,", "jp": "「御者に待つように叫び、」" },
+        { "en": "and brushed past the maid", "jp": "「メイドの脇をかすめて通り抜けた」" },
+        { "en": "who opened the door", "jp": "「ドアを開けた」" },
+        { "en": "with the air of a man", "jp": "「男のような様子で」" },
+        { "en": "who was thoroughly at home.", "jp": "「すっかりくつろいだ。」" }
+      ],
+      "full_jp": "「彼はひどく急いでいて、御者に待っていろと叫び、ドアを開けたメイドの脇を、まるで家の主のような態度で通り抜けていった。」"
+    },
+    {
+      "id": 312,
+      "chunks": [
+        { "en": "He was in the house", "jp": "「彼は家の中にいた」" },
+        { "en": "about half an hour,", "jp": "「およそ30分ほど、」" },
+        { "en": "and I could catch glimpses of him", "jp": "「私は彼の姿を時折垣間見ることができた」" },
+        { "en": "in the windows of the sitting-room,", "jp": "「居間の窓越しに、」" },
+        { "en": "pacing up and down,", "jp": "「行ったり来たりしながら、」" },
+        { "en": "talking excitedly,", "jp": "「興奮して話し、」" },
+        { "en": "and waving his arms.", "jp": "「腕を振り回している。」" }
+      ],
+      "full_jp": "「彼は家の中に30分ほどいて、その間、居間の窓越しに、行ったり来たり歩きながら興奮して話し、腕を振り回している姿が時折見えた。」"
+    },
+    {
+      "id": 313,
+      "chunks": [
+        { "en": "Of her", "jp": "「彼女のほうは」" },
+        { "en": "I could see nothing.", "jp": "「私には見えなかった。」" }
+      ],
+      "full_jp": "「彼女のほうの姿は見えなかった。」"
+    },
+    {
+      "id": 314,
+      "chunks": [
+        { "en": "Presently he emerged,", "jp": "「まもなく彼は出てきた、」" },
+        { "en": "looking even more flurried than before.", "jp": "「以前よりさらに慌てた様子で。」" }
+      ],
+      "full_jp": "「やがて彼は、入っていった時より一層慌てた様子で出てきた。」"
+    },
+    {
+      "id": 315,
+      "chunks": [
+        { "en": "As he stepped up to the cab,", "jp": "「馬車に乗り込みかけながら、」" },
+        { "en": "he pulled a gold watch", "jp": "「彼は金時計を取り出した」" },
+        { "en": "from his pocket", "jp": "「ポケットから」" },
+        { "en": "and looked at it earnestly,", "jp": "「そしてそれを真剣な顔で見た、」" },
+        { "en": "'Drive like the devil,'", "jp": "「『悪魔のように走れ』、」" },
+        { "en": "he shouted,", "jp": "と彼は叫んだ、" },
+        { "en": "'first to Gross & Hankey's in Regent Street,", "jp": "「『まずリージェント街のグロス・アンド・ハンキー商店へ、」" },
+        { "en": "and then to the Church of St. Monica in the Edgeware Road.", "jp": "「『それからエッジウェア・ロードの聖モニカ教会へ。」" }
+      ],
+      "full_jp": "「馬車に乗り込みざま、彼はポケットから金時計を取り出して真剣な顔で時間を確かめ、『悪魔のように飛ばせ』と叫んだ。『まずリージェント街のグロス・アンド・ハンキー商店、それからエッジウェア・ロードの聖モニカ教会だ。」"
+    },
+    {
+      "id": 316,
+      "chunks": [
+        { "en": "Half a guinea", "jp": "「半ギニーやる」" },
+        { "en": "if you do it in twenty minutes!'", "jp": "「20分でやれたら!』」" }
+      ],
+      "full_jp": "「『20分でやり遂げたら半ギニーだ!』」"
+    },
+    {
+      "id": 317,
+      "chunks": [
+        { "en": "Away they went,", "jp": "「馬車は走り去った、」" },
+        { "en": "and I was just wondering", "jp": "「ちょうど私が考えていた時に」" },
+        { "en": "whether I should not do well", "jp": "「私が〜したほうがよいのではないかと」" },
+        { "en": "to follow them", "jp": "「彼らを追う」" },
+        { "en": "when up the lane came a neat little landau,", "jp": "「小道を一台の小ぎれいなランドー馬車が上ってきた、」" },
+        { "en": "the coachman with his coat only half-buttoned,", "jp": "「御者は上着のボタンが半分しか留まっていない、」" },
+        { "en": "and his tie under his ear,", "jp": "「ネクタイは耳の下にずれて、」" },
+        { "en": "while all the tags of his harness", "jp": "「馬具の留め具はすべて」" },
+        { "en": "were sticking out of the buckles.", "jp": "「バックルから飛び出している。」" }
+      ],
+      "full_jp": "「馬車は走り去り、私が追うべきかどうか迷っていると、小道を一台の小ぎれいなランドー馬車が上ってきた——御者は上着のボタンが半分しか留まっておらず、ネクタイは耳の下にずれ、馬具の留め具はすべてバックルから飛び出していた。」"
+    },
+    {
+      "id": 318,
+      "chunks": [
+        { "en": "It hadn't pulled up", "jp": "「それは停まらないうちに」" },
+        { "en": "before she shot out of the hall door", "jp": "「彼女が玄関ホールから飛び出してきた」" },
+        { "en": "and into it.", "jp": "「そして馬車に。」" }
+      ],
+      "full_jp": "「馬車が停まりきらないうちに、彼女が玄関から飛び出して乗り込んだ。」"
+    },
+    {
+      "id": 319,
+      "chunks": [
+        { "en": "I only caught a glimpse of her", "jp": "「私は彼女を一瞬しか目にしなかった」" },
+        { "en": "at the moment,", "jp": "「その瞬間、」" },
+        { "en": "but she was a lovely woman,", "jp": "「だが彼女は美しい女性だった、」" },
+        { "en": "with a face", "jp": "「顔をした」" },
+        { "en": "that a man might die for.", "jp": "「男が命を捧げてもよいと思うような。」" }
+      ],
+      "full_jp": "「ほんの一瞬しか姿を目にできなかったが、男が命を捧げてもいいと思うような顔をした美しい女性だった。」"
+    },
+    {
+      "id": 320,
+      "chunks": [
+        { "en": "'The Church of St. Monica, John,'", "jp": "「『聖モニカ教会へ、ジョン、』」" },
+        { "en": "she cried,", "jp": "と彼女は叫んだ、" },
+        { "en": "'and half a sovereign", "jp": "「『そして半ソブリンやるわ」" },
+        { "en": "if you reach it in twenty minutes.'", "jp": "「『20分でたどり着けたら。』」" }
+      ],
+      "full_jp": "「『聖モニカ教会よ、ジョン』と彼女は叫んだ。『20分以内に着いたら半ソブリン出すわ。』」"
+    },
+    {
+      "id": 321,
+      "chunks": [
+        { "en": "This was quite too good to lose, Watson.", "jp": "「これは逃すには惜しすぎた、ワトソン。」" }
+      ],
+      "full_jp": "「これは逃すには惜しすぎたよ、ワトソン。」"
+    },
+    {
+      "id": 322,
+      "chunks": [
+        { "en": "I was just balancing", "jp": "「ちょうど私が天秤にかけていた」" },
+        { "en": "whether I should run for it,", "jp": "「走って追いかけるべきか、」" },
+        { "en": "or whether I should perch", "jp": "「あるいは飛び乗るべきか」" },
+        { "en": "behind her landau", "jp": "「彼女のランドー馬車の後ろに」" },
+        { "en": "when a cab came through the street.", "jp": "「その時、辻馬車が通りを来た。」" }
+      ],
+      "full_jp": "「走って追うべきか、それとも彼女のランドー馬車の後ろに飛び乗るべきか天秤にかけていた時、ちょうど辻馬車が通りかかった。」"
+    },
+    {
+      "id": 323,
+      "chunks": [
+        { "en": "The driver looked twice at such a shabby fare,", "jp": "「御者はこんなみすぼらしい客に二度目をやった、」" },
+        { "en": "but I jumped in before he could object.", "jp": "「だが彼が文句を言う前に私は飛び乗った。」" }
+      ],
+      "full_jp": "「御者はこんなみすぼらしい客を二度見したが、文句を言う前に私は乗り込んだ。」"
+    },
+    {
+      "id": 324,
+      "chunks": [
+        { "en": "'The Church of St. Monica,'", "jp": "「『聖モニカ教会へ』、」" },
+        { "en": "said I,", "jp": "と私は言った、" },
+        { "en": "'and half a sovereign", "jp": "「『そして半ソブリンやる」" },
+        { "en": "if you reach it in twenty minutes.'", "jp": "「『20分でたどり着けたら。』」" }
+      ],
+      "full_jp": "「『聖モニカ教会へ』と私は言った。『20分で着けたら半ソブリンだ。』」"
+    },
+    {
+      "id": 325,
+      "chunks": [
+        { "en": "It was twenty-five minutes to twelve,", "jp": "「11時35分だった、」" },
+        { "en": "and of course it was clear enough", "jp": "「もちろん十分明らかだった」" },
+        { "en": "what was in the wind.", "jp": "「何が起きようとしているか。」" }
+      ],
+      "full_jp": "「11時35分。もちろん、何が起きようとしているかは十分に察しがついた。」"
+    },
+    {
+      "id": 326,
+      "chunks": [
+        { "en": "My cabby drove fast.", "jp": "「私の御者は速く飛ばした。」" }
+      ],
+      "full_jp": "「私の御者は飛ばしてくれた。」"
+    },
+    {
+      "id": 327,
+      "chunks": [
+        { "en": "I don't think I ever drove faster,", "jp": "「これより速く馬車で走ったことはないと思う、」" },
+        { "en": "but the others were there before us.", "jp": "「だが二人は先に着いていた。」" }
+      ],
+      "full_jp": "「あれほど速く馬車を走らせたことはなかったと思うが、二人のほうが先に着いていた。」"
+    },
+    {
+      "id": 328,
+      "chunks": [
+        { "en": "The cab and the landau", "jp": "「ハンサム馬車とランドー馬車が」" },
+        { "en": "with their steaming horses", "jp": "「湯気を立てる馬とともに」" },
+        { "en": "were in front of the door", "jp": "「ドアの前にあった」" },
+        { "en": "when I arrived.", "jp": "「私が到着した時。」" }
+      ],
+      "full_jp": "「私が着いた時には、湯気を立てる馬を従えたハンサム馬車とランドー馬車が、すでに教会のドアの前に止まっていた。」"
+    },
+    {
+      "id": 329,
+      "chunks": [
+        { "en": "I paid the man", "jp": "「私は御者に金を払った」" },
+        { "en": "and hurried into the church.", "jp": "「そして急いで教会の中へ入った。」" }
+      ],
+      "full_jp": "「御者に金を払うと、急いで教会の中へ入った。」"
+    },
+    {
+      "id": 330,
+      "chunks": [
+        { "en": "There was not a soul there", "jp": "「人っ子一人いなかった」" },
+        { "en": "save the two", "jp": "「二人以外には」" },
+        { "en": "whom I had followed", "jp": "「私が追ってきた」" },
+        { "en": "and a surpliced clergyman,", "jp": "「そして白い祭服を着た聖職者、」" },
+        { "en": "who seemed to be expostulating with them.", "jp": "「彼は彼らに何か抗議しているようだった。」" }
+      ],
+      "full_jp": "「中には、私が追ってきた二人と、何か抗議口調で話している白い祭服姿の聖職者のほかには、誰もいなかった。」"
+    },
+    {
+      "id": 331,
+      "chunks": [
+        { "en": "They were all three", "jp": "「彼ら三人は皆」" },
+        { "en": "standing in a knot", "jp": "「ひとかたまりに立っていた」" },
+        { "en": "in front of the altar.", "jp": "「祭壇の前に。」" }
+      ],
+      "full_jp": "「三人とも祭壇の前に集まって立っていた。」"
+    },
+    {
+      "id": 332,
+      "chunks": [
+        { "en": "I lounged up the side aisle", "jp": "「私は脇の通路をぶらぶらと進んだ」" },
+        { "en": "like any other idler", "jp": "「ほかの暇な男のように」" },
+        { "en": "who has dropped into a church.", "jp": "「教会にふらりと立ち寄った。」" }
+      ],
+      "full_jp": "「私は教会にふらりと立ち寄った暇人を装って、脇の通路をぶらぶら進んだ。」"
+    },
+    {
+      "id": 333,
+      "chunks": [
+        { "en": "Suddenly, to my surprise,", "jp": "「突然、驚いたことに、」" },
+        { "en": "the three at the altar", "jp": "「祭壇の三人が」" },
+        { "en": "faced round to me,", "jp": "「私のほうを振り向いた、」" },
+        { "en": "and Godfrey Norton came running", "jp": "「そしてゴドフリー・ノートンが走ってきた」" },
+        { "en": "as hard as he could towards me.", "jp": "「全速力で私のほうへ。」" }
+      ],
+      "full_jp": "「驚いたことに突然、祭壇の三人が私のほうを振り向き、ゴドフリー・ノートンが全速力でこちらへ走ってきた。」"
+    },
+    {
+      "id": 334,
+      "chunks": [
+        { "en": "'Thank God!'", "jp": "「『ありがたい!』」" },
+        { "en": "he cried.", "jp": "と彼は叫んだ。" }
+      ],
+      "full_jp": "「『助かった!』と彼は叫んだ。」"
+    },
+    {
+      "id": 335,
+      "chunks": [
+        { "en": "'You'll do.", "jp": "「『君で十分だ。」" },
+        { "en": "Come! Come!'", "jp": "「来てくれ!来てくれ!』」" }
+      ],
+      "full_jp": "「『君で十分だ。来てくれ、頼む!』」"
+    },
+    {
+      "id": 336,
+      "chunks": [
+        { "en": "'What then?'", "jp": "「『何ですか?』」" },
+        { "en": "I asked.", "jp": "と私は尋ねた。" }
+      ],
+      "full_jp": "「『何でしょう?』と私は尋ねた。」"
+    },
+    {
+      "id": 337,
+      "chunks": [
+        { "en": "'Come, man, come,", "jp": "「『来てくれ、頼む、」" },
+        { "en": "only three minutes,", "jp": "「『3分だけでいいんだ、」" },
+        { "en": "or it won't be legal.'", "jp": "「『でないと法的に成立しないんだ。』」" }
+      ],
+      "full_jp": "「『頼む、来てくれ。3分だけでいい。でないと法的に成立しないんだ。』」"
+    },
+    {
+      "id": 338,
+      "chunks": [
+        { "en": "I was half-dragged up to the altar,", "jp": "「私は半ば引きずられて祭壇まで連れていかれた、」" },
+        { "en": "and, before I knew where I was,", "jp": "「そしてどうなったか分からないうちに、」" },
+        { "en": "I found myself mumbling responses", "jp": "「私は受け答えをもごもごと唱えていた」" },
+        { "en": "which were whispered in my ear,", "jp": "「耳元でささやかれた、」" },
+        { "en": "and vouching for things", "jp": "「そして事柄を保証していた」" },
+        { "en": "of which I knew nothing,", "jp": "「私が何も知らない、」" },
+        { "en": "and generally assisting", "jp": "「そして全般的に手助けしていた」" },
+        { "en": "in the secure tying up", "jp": "「しっかりとした結びつけを」" },
+        { "en": "of Irene Adler, spinster,", "jp": "「独身のアイリーン・アドラーの、」" },
+        { "en": "to Godfrey Norton, bachelor.", "jp": "「独身男ゴドフリー・ノートンへの。」" }
+      ],
+      "full_jp": "「私は半ば引きずられるようにして祭壇に連れて行かれ、何が何だか分からないうちに、耳元でささやかれた台詞をもごもごと繰り返し、知らないことを保証してしまい、結果として独身女性アイリーン・アドラーと独身男性ゴドフリー・ノートンの婚姻成立を手助けしてしまった。」"
+    },
+    {
+      "id": 339,
+      "chunks": [
+        { "en": "It was all done in an instant,", "jp": "「すべてが一瞬で済んだ、」" },
+        { "en": "and there was the gentleman thanking me on the one side", "jp": "「片側には紳士が私に礼を言い、」" },
+        { "en": "and the lady on the other,", "jp": "「もう片側には淑女が、」" },
+        { "en": "while the clergyman beamed on me in front.", "jp": "「正面では聖職者が笑顔を向けていた。」" }
+      ],
+      "full_jp": "「すべてが一瞬で済んだ。片側ではあの紳士が、反対側では淑女が私に礼を言い、正面では聖職者が笑顔を浮かべていた。」"
+    },
+    {
+      "id": 340,
+      "chunks": [
+        { "en": "It was the most preposterous position", "jp": "「それは最もとんでもない立場だった」" },
+        { "en": "in which I ever found myself in my life,", "jp": "「人生で身を置いた中で、」" },
+        { "en": "and it was the thought of it", "jp": "「そしてそのことを考えたのが」" },
+        { "en": "that started me laughing just now.", "jp": "「ちょうど今、私を笑わせ始めたのだ。」" }
+      ],
+      "full_jp": "「人生で立たされた中で一番馬鹿げた立場だったよ。それを思い出して、たった今笑い転げていたわけだ。」"
+    },
+    {
+      "id": 341,
+      "chunks": [
+        { "en": "It seems", "jp": "「どうやら」" },
+        { "en": "that there had been some informality", "jp": "「何か不備があったらしい」" },
+        { "en": "about their license,", "jp": "「彼らの結婚許可証に、」" },
+        { "en": "that the clergyman absolutely refused", "jp": "「聖職者がきっぱり拒んだ」" },
+        { "en": "to marry them", "jp": "「彼らを結婚させることを」" },
+        { "en": "without a witness of some sort,", "jp": "「何らかの証人なしには、」" },
+        { "en": "and that my lucky appearance", "jp": "「そして私が運よく現れたことで」" },
+        { "en": "saved the bridegroom from having to sally out into the streets", "jp": "「新郎が通りに飛び出さずに済んだ」" },
+        { "en": "in search of a best man.", "jp": "「立会人を探しに。」" }
+      ],
+      "full_jp": "「どうやら結婚許可証に何か不備があって、聖職者は証人がいなければ絶対に式を挙げないと言い張っていたらしい。私が運良く現れたおかげで、新郎は立会人を探しに通りへ飛び出さずに済んだというわけだ。」"
+    },
+    {
+      "id": 342,
+      "chunks": [
+        { "en": "The bride gave me a sovereign,", "jp": "「新婦は私に1ソブリン金貨をくれた、」" },
+        { "en": "and I mean to wear it on my watch-chain", "jp": "「そして時計の鎖に付けておくつもりだ」" },
+        { "en": "in memory of the occasion.", "jp": "「この出来事の記念に。」" }
+      ],
+      "full_jp": "「新婦は私に1ソブリン金貨をくれた。記念にこの出来事を思い出すために、時計の鎖に付けておくつもりさ。」"
+    },
+    {
+      "id": 343,
+      "chunks": [
+        { "en": "This is a very unexpected turn of affairs,", "jp": "「これは実に予想外の展開だね、」" },
+        { "en": "said I;", "jp": "と私は言った;" },
+        { "en": "and what then?", "jp": "「それで?」" }
+      ],
+      "full_jp": "「これは予想外の展開だね」と私は言った。「それで、どうなったんだ?」"
+    },
+    {
+      "id": 344,
+      "chunks": [
+        { "en": "Well, I found my plans", "jp": "「うむ、私の計画が」" },
+        { "en": "very seriously threatened.", "jp": "「深刻に脅かされていることに気づいた。」" }
+      ],
+      "full_jp": "「いや、自分の計画が深刻な危機に瀕しているのに気づいたのさ。」"
+    },
+    {
+      "id": 345,
+      "chunks": [
+        { "en": "It looked", "jp": "「〜のように見えた」" },
+        { "en": "as if the pair might take an immediate departure,", "jp": "「夫婦が直ちに出発するかもしれない、」" },
+        { "en": "and so necessitate very prompt and energetic measures", "jp": "「そして即座に精力的な対策を必要とする」" },
+        { "en": "on my part.", "jp": "「私の側に。」" }
+      ],
+      "full_jp": "「二人が即座に旅立ってしまうかもしれない、そうなれば私としても急いで手を打たねばならない、そう思えた。」"
+    },
+    {
+      "id": 346,
+      "chunks": [
+        { "en": "At the church door,", "jp": "「教会のドアの所で、」" },
+        { "en": "however, they separated,", "jp": "「だが彼らは別れた、」" },
+        { "en": "he driving back to the Temple,", "jp": "「彼はテンプル法学院へと戻っていき、」" },
+        { "en": "and she to her own house.", "jp": "「彼女は自宅へ。」" }
+      ],
+      "full_jp": "「だが教会の入り口で二人は別れた——彼はテンプル法学院へ、彼女は自宅へと帰っていった。」"
+    },
+    {
+      "id": 347,
+      "chunks": [
+        { "en": "I shall drive out in the park at five as usual,", "jp": "「『5時にいつも通り公園へ馬車で出かけるわ』、」" },
+        { "en": "she said", "jp": "と彼女は言った" },
+        { "en": "as she left him.", "jp": "彼と別れる時に。" }
+      ],
+      "full_jp": "「『5時にいつも通り公園へ馬車で出かけるわ』と、別れ際に彼女は言った。」"
+    },
+    {
+      "id": 348,
+      "chunks": [
+        { "en": "I heard no more.", "jp": "「それ以上は聞こえなかった。」" }
+      ],
+      "full_jp": "「私が聞き取れたのはそこまでだった。」"
+    },
+    {
+      "id": 349,
+      "chunks": [
+        { "en": "They drove away in different directions,", "jp": "「二人は別々の方向へ走り去った、」" },
+        { "en": "and I went off to make my own arrangements.", "jp": "「そして私は自分の手はずを整えに行った。」" }
+      ],
+      "full_jp": "「二人は反対方向へ走り去り、私も自分の準備に取りかかった。」"
+    },
+    {
+      "id": 350,
+      "chunks": [
+        { "en": "Which are?", "jp": "「それはどんな?」" }
+      ],
+      "full_jp": "「それはどんな準備なんだ?」"
+    },
+    {
+      "id": 351,
+      "chunks": [
+        { "en": "Some cold beef and a glass of beer,", "jp": "「冷たい牛肉とビール一杯、」" },
+        { "en": "he answered, ringing the bell.", "jp": "と彼はベルを鳴らしながら答えた。" }
+      ],
+      "full_jp": "「冷たい牛肉とビール一杯さ」と彼はベルを鳴らしながら答えた。"
+    },
+    {
+      "id": 352,
+      "chunks": [
+        { "en": "I have been too busy", "jp": "「忙しすぎて」" },
+        { "en": "to think of food,", "jp": "「食事のことを考えられなかった、」" },
+        { "en": "and I am likely to be busier still", "jp": "「そしてもっと忙しくなりそうだ」" },
+        { "en": "this evening.", "jp": "「今夜は。」" }
+      ],
+      "full_jp": "「忙しくて食事のことなど考える暇もなかった。それに今晩はもっと忙しくなりそうだ。」"
+    },
+    {
+      "id": 353,
+      "chunks": [
+        { "en": "By the way, Doctor,", "jp": "「ところで、ドクター、」" },
+        { "en": "I shall want your co-operation.", "jp": "「君の協力が必要だ。」" }
+      ],
+      "full_jp": "「ところでドクター、君の協力が要るんだ。」"
+    },
+    {
+      "id": 354,
+      "chunks": [
+        { "en": "I shall be delighted.", "jp": "「喜んで。」" }
+      ],
+      "full_jp": "「喜んで。」"
+    },
+    {
+      "id": 355,
+      "chunks": [
+        { "en": "You don't mind breaking the law?", "jp": "「法律を破ることは気にしないかい?」" }
+      ],
+      "full_jp": "「法律を破ることは気にしないかい?」"
+    },
+    {
+      "id": 356,
+      "chunks": [
+        { "en": "Not in the least.", "jp": "「全然。」" }
+      ],
+      "full_jp": "「まったく構わない。」"
+    },
+    {
+      "id": 357,
+      "chunks": [
+        { "en": "Nor running a chance of arrest?", "jp": "「逮捕の危険を冒すことも?」" }
+      ],
+      "full_jp": "「逮捕される危険も?」"
+    },
+    {
+      "id": 358,
+      "chunks": [
+        { "en": "Not in a good cause.", "jp": "「正当な目的のためなら。」" }
+      ],
+      "full_jp": "「正当な目的のためなら問題ない。」"
+    },
+    {
+      "id": 359,
+      "chunks": [
+        { "en": "Oh, the cause is excellent!", "jp": "「ああ、目的は素晴らしいものさ!」" }
+      ],
+      "full_jp": "「目的は申し分ない!」"
+    },
+    {
+      "id": 360,
+      "chunks": [
+        { "en": "Then I am your man.", "jp": "「では私を当てにしてくれ。」" }
+      ],
+      "full_jp": "「では、私が君の相棒だ。」"
+    },
+    {
+      "id": 361,
+      "chunks": [
+        { "en": "I was sure", "jp": "「確信していた」" },
+        { "en": "that I might rely on you.", "jp": "「君を当てにできると。」" }
+      ],
+      "full_jp": "「君を当てにできると思っていたよ。」"
+    },
+    {
+      "id": 362,
+      "chunks": [
+        { "en": "But what is it", "jp": "「だが、それは何だい」" },
+        { "en": "you wish?", "jp": "「君が望んでいるのは?」" }
+      ],
+      "full_jp": "「だが、君は何を望んでいるんだ?」"
+    },
+    {
+      "id": 363,
+      "chunks": [
+        { "en": "When Mrs. Turner has brought in the tray", "jp": "「ターナー夫人がトレイを持ってきたら」" },
+        { "en": "I will make it clear to you.", "jp": "「君に詳しく説明するよ。」" }
+      ],
+      "full_jp": "「ターナー夫人が食事のトレイを持ってきたら、詳しく説明するよ。」"
+    },
+    {
+      "id": 364,
+      "chunks": [
+        { "en": "Now,", "jp": "「さて、」" },
+        { "en": "he said", "jp": "と彼は言った" },
+        { "en": "as he turned hungrily on the simple fare", "jp": "彼は質素な料理に空腹そうに向き合いながら" },
+        { "en": "that our landlady had provided,", "jp": "下宿の女主人が用意した、" },
+        { "en": "I must discuss it", "jp": "「これを話し合わねばならない」" },
+        { "en": "while I eat,", "jp": "「食べながら、」" },
+        { "en": "for I have not much time.", "jp": "「あまり時間がないので。」" }
+      ],
+      "full_jp": "下宿の女主人が用意した質素な料理に空腹そうに向き合いながら、「食べながら話そう。あまり時間がないんだ」と彼は言った。"
+    },
+    {
+      "id": 365,
+      "chunks": [
+        { "en": "It is nearly five now.", "jp": "「もうすぐ5時だ。」" }
+      ],
+      "full_jp": "「もうすぐ5時だ。」"
+    },
+    {
+      "id": 366,
+      "chunks": [
+        { "en": "In two hours", "jp": "「2時間後に」" },
+        { "en": "we must be on the scene of action.", "jp": "「現場にいなければならない。」" }
+      ],
+      "full_jp": "「2時間後には現場にいる必要がある。」"
+    },
+    {
+      "id": 367,
+      "chunks": [
+        { "en": "Miss Irene,", "jp": "「アイリーン嬢、」" },
+        { "en": "or Madame, rather,", "jp": "「いや、夫人と言うべきか、」" },
+        { "en": "returns from her drive at seven.", "jp": "「7時に馬車での外出から戻ってくる。」" }
+      ],
+      "full_jp": "「アイリーン嬢——いや、もう夫人だが——は、7時に馬車での外出から帰ってくる。」"
+    },
+    {
+      "id": 368,
+      "chunks": [
+        { "en": "We must be at Briony Lodge", "jp": "「ブライオニー荘にいなければならない」" },
+        { "en": "to meet her.", "jp": "「彼女を出迎えるために。」" }
+      ],
+      "full_jp": "「ブライオニー荘で彼女を出迎える必要がある。」"
+    },
+    {
+      "id": 369,
+      "chunks": [
+        { "en": "And what then?", "jp": "「それからどうする?」" }
+      ],
+      "full_jp": "「それからどうするんだ?」"
+    },
+    {
+      "id": 370,
+      "chunks": [
+        { "en": "You must leave that to me.", "jp": "「そこは私に任せてくれ。」" }
+      ],
+      "full_jp": "「そこは私に任せてくれ。」"
+    },
+    {
+      "id": 371,
+      "chunks": [
+        { "en": "I have already arranged", "jp": "「すでに手はずを整えた」" },
+        { "en": "what is to occur.", "jp": "「これから起こることを。」" }
+      ],
+      "full_jp": "「これから起こることの段取りはもう整えてある。」"
+    },
+    {
+      "id": 372,
+      "chunks": [
+        { "en": "There is only one point", "jp": "「ただ一つだけ」" },
+        { "en": "on which I must insist.", "jp": "「強く頼みたい点がある。」" }
+      ],
+      "full_jp": "「ただ一つだけ、強く念を押しておきたいことがある。」"
+    },
+    {
+      "id": 373,
+      "chunks": [
+        { "en": "You must not interfere,", "jp": "「君は介入してはならない、」" },
+        { "en": "come what may.", "jp": "「何が起きようとも。」" }
+      ],
+      "full_jp": "「何が起ころうと、君は手出しをしてはいけない。」"
+    },
+    {
+      "id": 374,
+      "chunks": [
+        { "en": "You understand?", "jp": "「分かったね?」" }
+      ],
+      "full_jp": "「分かったね?」"
+    },
+    {
+      "id": 375,
+      "chunks": [
+        { "en": "I am to be neutral?", "jp": "「私は中立でいるべきなのか?」" }
+      ],
+      "full_jp": "「私は中立でいるんだね?」"
+    },
+    {
+      "id": 376,
+      "chunks": [
+        { "en": "To do nothing whatever.", "jp": "「何もしないでくれ。」" }
+      ],
+      "full_jp": "「絶対に何もしないでくれ。」"
+    },
+    {
+      "id": 377,
+      "chunks": [
+        { "en": "There will probably be some small unpleasantness.", "jp": "「おそらく多少の不快な事態が起こるだろう。」" }
+      ],
+      "full_jp": "「おそらく多少不愉快な事が起こる。」"
+    },
+    {
+      "id": 378,
+      "chunks": [
+        { "en": "Do not join in it.", "jp": "「それに加わってはいけない。」" }
+      ],
+      "full_jp": "「それに加わってはいけない。」"
+    },
+    {
+      "id": 379,
+      "chunks": [
+        { "en": "It will end", "jp": "「最後には終わる」" },
+        { "en": "in my being conveyed into the house.", "jp": "「私が家の中に運び込まれることで。」" }
+      ],
+      "full_jp": "「最後には私が家の中に運び込まれることになる。」"
+    },
+    {
+      "id": 380,
+      "chunks": [
+        { "en": "Four or five minutes afterwards", "jp": "「4、5分後に」" },
+        { "en": "the sitting-room window will open.", "jp": "「居間の窓が開く。」" }
+      ],
+      "full_jp": "「その4、5分後に、居間の窓が開く。」"
+    },
+    {
+      "id": 381,
+      "chunks": [
+        { "en": "You are to station yourself", "jp": "「君は位置取らねばならない」" },
+        { "en": "close to that open window.", "jp": "「その開いた窓の近くに。」" }
+      ],
+      "full_jp": "「君は、その開いた窓のすぐ近くに陣取ってもらう。」"
+    },
+    {
+      "id": 382,
+      "chunks": [
+        { "en": "Yes.", "jp": "「ああ。」" }
+      ],
+      "full_jp": "「ああ。」"
+    },
+    {
+      "id": 383,
+      "chunks": [
+        { "en": "You are to watch me,", "jp": "「君は私を見ているのだ、」" },
+        { "en": "for I will be visible to you.", "jp": "「私の姿は君に見えるから。」" }
+      ],
+      "full_jp": "「私の姿が見えるはずだから、私を見ていてくれ。」"
+    },
+    {
+      "id": 384,
+      "chunks": [
+        { "en": "Yes.", "jp": "「ああ。」" }
+      ],
+      "full_jp": "「ああ。」"
+    },
+    {
+      "id": 385,
+      "chunks": [
+        { "en": "And when I raise my hand —", "jp": "「そして私が手を上げたら——」" },
+        { "en": "so —", "jp": "「こうやって——」" },
+        { "en": "you will throw into the room", "jp": "「君は部屋に投げ込むのだ」" },
+        { "en": "what I give you to throw,", "jp": "「私が君に投げるよう渡すものを、」" },
+        { "en": "and will, at the same time,", "jp": "「そして同時に、」" },
+        { "en": "raise the cry of fire.", "jp": "「火事だと叫び声を上げる。」" }
+      ],
+      "full_jp": "「私が——こうやって——手を上げたら、これから渡すものを部屋の中に投げ込んでくれ。同時に『火事だ!』と叫ぶんだ。」"
+    },
+    {
+      "id": 386,
+      "chunks": [
+        { "en": "You quite follow me?", "jp": "「ちゃんと付いてきているかい?」" }
+      ],
+      "full_jp": "「分かったかい?」"
+    },
+    {
+      "id": 387,
+      "chunks": [
+        { "en": "Entirely.", "jp": "「完全に。」" }
+      ],
+      "full_jp": "「完璧に分かった。」"
+    },
+    {
+      "id": 388,
+      "chunks": [
+        { "en": "It is nothing very formidable,", "jp": "「そんなに大層な物ではない、」" },
+        { "en": "he said,", "jp": "と彼は言った、" },
+        { "en": "taking a long cigar-shaped roll", "jp": "長い葉巻型の筒を取り出しながら" },
+        { "en": "from his pocket.", "jp": "ポケットから。" }
+      ],
+      "full_jp": "「大したものじゃないよ」と彼はポケットから長い葉巻型の筒を取り出しながら言った。"
+    },
+    {
+      "id": 389,
+      "chunks": [
+        { "en": "It is an ordinary plumber's smoke-rocket,", "jp": "「ただの配管工用の発煙筒だ、」" },
+        { "en": "fitted with a cap at either end", "jp": "「両端にキャップが付いていて」" },
+        { "en": "to make it self-lighting.", "jp": "「自動で点火する仕組みだ。」" }
+      ],
+      "full_jp": "「ただの配管工用の発煙筒だ。両端にキャップが付いていて、自動で点火するようになっている。」"
+    },
+    {
+      "id": 390,
+      "chunks": [
+        { "en": "Your task is confined to that.", "jp": "「君の任務はそれだけだ。」" }
+      ],
+      "full_jp": "「君の役目はそれだけだ。」"
+    },
+    {
+      "id": 391,
+      "chunks": [
+        { "en": "When you raise your cry of fire,", "jp": "「君が『火事だ』と叫び声を上げたら、」" },
+        { "en": "it will be taken up", "jp": "「それは引き継がれるだろう」" },
+        { "en": "by quite a number of people.", "jp": "「かなりの人数によって。」" }
+      ],
+      "full_jp": "「君が『火事だ』と叫べば、それは大勢の人に引き継がれていくはずだ。」"
+    },
+    {
+      "id": 392,
+      "chunks": [
+        { "en": "You may then walk to the end of the street,", "jp": "「それから君は通りの端まで歩いて行ってよい、」" },
+        { "en": "and I will rejoin you", "jp": "「そして私が君に合流する」" },
+        { "en": "in ten minutes.", "jp": "「10分以内に。」" }
+      ],
+      "full_jp": "「その後は通りの端まで歩いて行ってくれ。10分以内に合流する。」"
+    },
+    {
+      "id": 393,
+      "chunks": [
+        { "en": "I hope", "jp": "「願わくは」" },
+        { "en": "that I have made myself clear?", "jp": "「明確に説明できただろうか?」" }
+      ],
+      "full_jp": "「分かるように説明できただろうか?」"
+    },
+    {
+      "id": 394,
+      "chunks": [
+        { "en": "I am to remain neutral,", "jp": "「私は中立を保ち、」" },
+        { "en": "to get near the window,", "jp": "「窓の近くに寄って、」" },
+        { "en": "to watch you,", "jp": "「君を見ていて、」" },
+        { "en": "and, at the signal,", "jp": "「合図とともに、」" },
+        { "en": "to throw in this object,", "jp": "「この物体を投げ込み、」" },
+        { "en": "then to raise the cry of fire,", "jp": "「それから『火事だ』と叫び、」" },
+        { "en": "and to wait you", "jp": "「そして君を待つ」" },
+        { "en": "at the corner of the street.", "jp": "「通りの角で。」" }
+      ],
+      "full_jp": "「私は中立を保ち、窓の近くに寄って君を見ていて、合図でこれを投げ込み、『火事だ』と叫び、通りの角で君を待つ。」"
+    },
+    {
+      "id": 395,
+      "chunks": [
+        { "en": "Precisely.", "jp": "「まさにその通り。」" }
+      ],
+      "full_jp": "「まさにその通り。」"
+    },
+    {
+      "id": 396,
+      "chunks": [
+        { "en": "Then you may entirely rely on me.", "jp": "「では完全に私を当てにしていい。」" }
+      ],
+      "full_jp": "「では、完全に私を頼りにしてくれ。」"
+    },
+    {
+      "id": 397,
+      "chunks": [
+        { "en": "That is excellent.", "jp": "「素晴らしい。」" }
+      ],
+      "full_jp": "「素晴らしい。」"
+    },
+    {
+      "id": 398,
+      "chunks": [
+        { "en": "I think,", "jp": "「私は思う、」" },
+        { "en": "perhaps,", "jp": "「もしかすると、」" },
+        { "en": "it is almost time", "jp": "「ほぼ時間だ」" },
+        { "en": "that I prepare for the new role", "jp": "「新しい役の準備をする」" },
+        { "en": "I have to play.", "jp": "「私が演じる。」" }
+      ],
+      "full_jp": "「では、そろそろこれから演じる役の準備をする時間だな。」"
+    },
+    {
+      "id": 399,
+      "chunks": [
+        { "en": "He disappeared into his bedroom", "jp": "彼は寝室に消えた" },
+        { "en": "and returned in a few minutes", "jp": "そして数分後に戻ってきた" },
+        { "en": "in the character of an amiable", "jp": "気のいい役に扮して" },
+        { "en": "and simple-minded Nonconformist clergyman.", "jp": "そして純朴な非国教派の聖職者の。" }
+      ],
+      "full_jp": "彼は寝室に消え、数分後には気のいい純朴な非国教派の聖職者に扮して戻ってきた。"
+    },
+    {
+      "id": 400,
+      "chunks": [
+        { "en": "His broad black hat,", "jp": "幅広の黒い帽子、" },
+        { "en": "his baggy trousers,", "jp": "だぶだぶのズボン、" },
+        { "en": "his white tie,", "jp": "白いタイ、" },
+        { "en": "his sympathetic smile,", "jp": "優しげな微笑み、" },
+        { "en": "and general look of peering and benevolent curiosity", "jp": "そして詮索好きで温和な好奇心に満ちた全体の表情、" },
+        { "en": "were such as Mr. John Hare alone could have equalled.", "jp": "それらは名優ジョン・ヘアにしか並べないほどの出来だった。" }
+      ],
+      "full_jp": "幅広の黒い帽子、だぶだぶのズボン、白いタイ、優しげな微笑、そして詮索好きで温和な好奇心に満ちた表情——名優ジョン・ヘアでなければ並べないほどの見事な変装だった。"
     }
   ]
 }
