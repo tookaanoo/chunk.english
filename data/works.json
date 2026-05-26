@@ -5,6 +5,12 @@
       "title": "The Adventures of Sherlock Holmes",
       "author": "Arthur Conan Doyle",
       "description": "シャーロック・ホームズの冒険(1892)"
+    },
+    {
+      "id": "speeches",
+      "title": "Famous Speeches",
+      "author": "Various",
+      "description": "歴史的名演説集"
     }
   ]
 }
