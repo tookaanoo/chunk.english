@@ -1128,6 +1128,727 @@
         { "en": "be looked upon as akin to bad taste.", "jp": "悪趣味に近いと見なされるような。" }
       ],
       "full_jp": "彼の服装は豪奢で、その豪奢さは英国であれば悪趣味と見なされかねないほどだった。"
+    },
+    {
+      "id": 121,
+      "chunks": [
+        { "en": "Heavy bands of astrakhan", "jp": "アストラカン毛皮の重い帯が" },
+        { "en": "were slashed across the sleeves", "jp": "袖に斜めに走り" },
+        { "en": "and fronts of his double-breasted coat,", "jp": "そしてダブルのコートの前面に、" },
+        { "en": "while the deep blue cloak", "jp": "一方、深い青色のマントは" },
+        { "en": "which was thrown over his shoulders", "jp": "肩にかけられた" },
+        { "en": "was lined with flame-coloured silk", "jp": "炎色の絹で裏打ちされていた" },
+        { "en": "and secured at the neck", "jp": "そして首元で留められていた" },
+        { "en": "with a brooch", "jp": "ブローチで" },
+        { "en": "which consisted of a single flaming beryl.", "jp": "それは一つの燃えるようなベリル(緑柱石)で出来ていた。" }
+      ],
+      "full_jp": "ダブルのコートの袖と前面にはアストラカン毛皮の幅広い縁取りが入り、肩にかけられた深い青のマントは炎のような色の絹で裏打ちされ、首元では一粒の燃えるようなベリル(緑柱石)のブローチで留められていた。"
+    },
+    {
+      "id": 122,
+      "chunks": [
+        { "en": "Boots which extended halfway up his calves,", "jp": "脛の半ばまで届くブーツ、" },
+        { "en": "and which were trimmed at the tops", "jp": "そしてその縁が装飾されていた" },
+        { "en": "with rich brown fur,", "jp": "豪奢な茶色の毛皮で、" },
+        { "en": "completed the impression", "jp": "それらが印象を完成させていた" },
+        { "en": "of barbaric opulence", "jp": "野蛮なほどの豪奢さの" },
+        { "en": "which was suggested", "jp": "それは示唆されていた" },
+        { "en": "by his whole appearance.", "jp": "彼の全身の様子によって。" }
+      ],
+      "full_jp": "脛の中ほどまでの長靴、その縁には豪奢な茶色の毛皮があしらわれ、それが彼の全身から漂う野蛮なほどの豪奢さの印象を完成させていた。"
+    },
+    {
+      "id": 123,
+      "chunks": [
+        { "en": "He carried a broad-brimmed hat in his hand,", "jp": "彼は手につば広の帽子を持っていた、" },
+        { "en": "while he wore across the upper part of his face,", "jp": "一方で顔の上半分には着けていた、" },
+        { "en": "extending down past the cheekbones,", "jp": "頬骨の下まで届く、" },
+        { "en": "a black vizard mask,", "jp": "黒い覆面の仮面を、" },
+        { "en": "which he had apparently adjusted that very moment,", "jp": "それを彼はまさにその瞬間に整えたようだった、" },
+        { "en": "for his hand was still raised to it", "jp": "なぜなら彼の手はまだそれに掲げられていた" },
+        { "en": "as he entered.", "jp": "彼が入ってきたとき。" }
+      ],
+      "full_jp": "彼はつば広の帽子を手に持ち、顔の上半分から頬骨の下までを覆う黒い仮面を着けていた——その仮面はまさに今しがた整えたばかりのようで、入ってきた時にもまだ手が仮面に添えられていた。"
+    },
+    {
+      "id": 124,
+      "chunks": [
+        { "en": "From the lower part of the face", "jp": "顔の下半分から判断すると" },
+        { "en": "he appeared to be a man of strong character,", "jp": "彼は強い性格の持ち主に見えた、" },
+        { "en": "with a thick, hanging lip,", "jp": "厚く垂れた唇、" },
+        { "en": "and a long, straight chin", "jp": "そして長くまっすぐな顎を持ち" },
+        { "en": "suggestive of resolution", "jp": "決断力を示唆する" },
+        { "en": "pushed to the length of obstinacy.", "jp": "頑固といえるほどに突き詰められた。" }
+      ],
+      "full_jp": "顔の下半分から見ると、彼は強い性格の持ち主だとわかる——厚く垂れた唇、長くまっすぐな顎は、頑固といえるほど突き詰められた決断力を感じさせた。"
+    },
+    {
+      "id": 125,
+      "chunks": [
+        { "en": "You had my note?", "jp": "「私の手紙は受け取ったかね?」" },
+        { "en": "he asked", "jp": "と彼は尋ねた" },
+        { "en": "with a deep harsh voice", "jp": "深く荒い声で" },
+        { "en": "and a strongly marked German accent.", "jp": "そしてはっきりとしたドイツ訛りで。" }
+      ],
+      "full_jp": "「私の手紙は受け取りましたか?」と彼は、深く荒々しい声と強いドイツ訛りで尋ねた。"
+    },
+    {
+      "id": 126,
+      "chunks": [
+        { "en": "I told you", "jp": "「お知らせしたとおり」" },
+        { "en": "that I would call.", "jp": "「お訪ねするとお伝えした。」" }
+      ],
+      "full_jp": "「お訪ねすると申し上げておいたものです。」"
+    },
+    {
+      "id": 127,
+      "chunks": [
+        { "en": "He looked from one to the other of us,", "jp": "彼は私たちの一方から他方へと目をやった、" },
+        { "en": "as if uncertain", "jp": "迷っているかのように" },
+        { "en": "which to address.", "jp": "どちらに話しかけるべきか。" }
+      ],
+      "full_jp": "彼は私たちの間で視線を行き来させた——どちらに話しかけるべきか迷っているかのように。"
+    },
+    {
+      "id": 128,
+      "chunks": [
+        { "en": "Pray take a seat,", "jp": "「どうぞお掛けください、」" },
+        { "en": "said Holmes.", "jp": "とホームズが言った。" }
+      ],
+      "full_jp": "「どうぞお掛けください」とホームズは言った。"
+    },
+    {
+      "id": 129,
+      "chunks": [
+        { "en": "This is my friend and colleague,", "jp": "「こちらは私の友人であり同僚です、」" },
+        { "en": "Dr. Watson,", "jp": "「ワトソン医師、」" },
+        { "en": "who is occasionally good enough", "jp": "「時折親切にも」" },
+        { "en": "to help me in my cases.", "jp": "「私の事件を手伝ってくれます。」" }
+      ],
+      "full_jp": "「こちらは私の友人にして同僚のワトソン医師。時折、私の事件を手伝ってくれる人物です。」"
+    },
+    {
+      "id": 130,
+      "chunks": [
+        { "en": "Whom have I the honour", "jp": "「どなたに私は栄誉を持ちますか」" },
+        { "en": "to address?", "jp": "「お話しする?」" }
+      ],
+      "full_jp": "「どちら様にお話しする栄誉を頂いておりますか?」"
+    },
+    {
+      "id": 131,
+      "chunks": [
+        { "en": "You may address me", "jp": "「私のことはお呼びください」" },
+        { "en": "as the Count Von Kramm,", "jp": "「フォン・クラム伯爵と、」" },
+        { "en": "a Bohemian nobleman.", "jp": "「ボヘミアの貴族です。」" }
+      ],
+      "full_jp": "「ボヘミアの貴族、フォン・クラム伯爵とでもお呼びください。」"
+    },
+    {
+      "id": 132,
+      "chunks": [
+        { "en": "I understand", "jp": "「私が理解するところでは」" },
+        { "en": "that this gentleman, your friend,", "jp": "「このご友人の紳士は、」" },
+        { "en": "is a man of honour and discretion,", "jp": "「名誉と分別をわきまえた方であり、」" },
+        { "en": "whom I may trust", "jp": "「信頼してよろしい」" },
+        { "en": "with a matter of the most extreme importance.", "jp": "「きわめて重大な事柄について。」" }
+      ],
+      "full_jp": "「ご友人のこの紳士は、名誉と分別をわきまえた方で、きわめて重大な事柄をお任せしてよろしいのですね。」"
+    },
+    {
+      "id": 133,
+      "chunks": [
+        { "en": "If not,", "jp": "「もしそうでなければ、」" },
+        { "en": "I should much prefer", "jp": "「私は断然望みます」" },
+        { "en": "to communicate with you alone.", "jp": "「あなただけと話すことを。」" }
+      ],
+      "full_jp": "「そうでなければ、あなただけにお話ししたい。」"
+    },
+    {
+      "id": 134,
+      "chunks": [
+        { "en": "I rose to go,", "jp": "私は出て行こうと立ち上がった、" },
+        { "en": "but Holmes caught me by the wrist", "jp": "しかしホームズは私の手首をつかんだ" },
+        { "en": "and pushed me back", "jp": "そして押し戻した" },
+        { "en": "into my chair.", "jp": "私の椅子へと。" }
+      ],
+      "full_jp": "私は退出しようと立ち上がりかけたが、ホームズが私の手首をつかみ、椅子に押し戻した。"
+    },
+    {
+      "id": 135,
+      "chunks": [
+        { "en": "It is both, or none,", "jp": "「二人とも、でなければ誰も、」" },
+        { "en": "said he.", "jp": "と彼は言った。" }
+      ],
+      "full_jp": "「私たち二人ともか、誰もか、どちらかです」と彼は言った。"
+    },
+    {
+      "id": 136,
+      "chunks": [
+        { "en": "You may say before this gentleman", "jp": "「この方の前で仰ってください」" },
+        { "en": "anything which you may say to me.", "jp": "「私に話すどんなことも。」" }
+      ],
+      "full_jp": "「私に話すことは何であれ、この方の前でも仰ってかまいません。」"
+    },
+    {
+      "id": 137,
+      "chunks": [
+        { "en": "The Count shrugged his broad shoulders.", "jp": "伯爵は広い肩をすくめた。" }
+      ],
+      "full_jp": "伯爵は広い肩をすくめた。"
+    },
+    {
+      "id": 138,
+      "chunks": [
+        { "en": "Then I must begin,", "jp": "「では始めなければなりません、」" },
+        { "en": "said he,", "jp": "と彼は言った、" },
+        { "en": "by binding you both", "jp": "「お二人を縛ることから」" },
+        { "en": "to absolute secrecy", "jp": "「絶対の秘密に」" },
+        { "en": "for two years;", "jp": "「2年間;」" }
+      ],
+      "full_jp": "「では、お二人に2年間の絶対的な秘密を誓っていただくところから始めなければなりません」と彼は言った。"
+    },
+    {
+      "id": 139,
+      "chunks": [
+        { "en": "at the end of that time", "jp": "「その期間が終わる時には」" },
+        { "en": "the matter will be of no importance.", "jp": "「この件はもはや重要ではなくなります。」" }
+      ],
+      "full_jp": "「その期間が終われば、この件はもはや重要ではなくなります。」"
+    },
+    {
+      "id": 140,
+      "chunks": [
+        { "en": "At present", "jp": "「現時点では」" },
+        { "en": "it is not too much to say", "jp": "「言い過ぎではありません」" },
+        { "en": "that it is of such weight", "jp": "「これほど重大であると」" },
+        { "en": "it may have an influence", "jp": "「影響を及ぼしうると」" },
+        { "en": "upon European history.", "jp": "「ヨーロッパの歴史に。」" }
+      ],
+      "full_jp": "「現時点では、ヨーロッパの歴史に影響を与えうるほど重大だと言っても過言ではありません。」"
+    },
+    {
+      "id": 141,
+      "chunks": [
+        { "en": "I promise,", "jp": "「私は約束します、」" },
+        { "en": "said Holmes.", "jp": "とホームズは言った。" }
+      ],
+      "full_jp": "「お約束します」とホームズは言った。"
+    },
+    {
+      "id": 142,
+      "chunks": [
+        { "en": "And I.", "jp": "「私もです。」" }
+      ],
+      "full_jp": "「私もです。」"
+    },
+    {
+      "id": 143,
+      "chunks": [
+        { "en": "You will excuse this mask,", "jp": "「この仮面はお許しください、」" },
+        { "en": "continued our strange visitor.", "jp": "と奇妙な訪問者は続けた。" }
+      ],
+      "full_jp": "「この仮面のことはお許しください」と奇妙な訪問者は続けた。"
+    },
+    {
+      "id": 144,
+      "chunks": [
+        { "en": "The august person", "jp": "「高貴な方が」" },
+        { "en": "who employs me", "jp": "「私を雇っている」" },
+        { "en": "wishes his agent", "jp": "「その代理人を」" },
+        { "en": "to be unknown to you,", "jp": "「あなた方に知られないように望んでいる、」" },
+        { "en": "and I may confess at once", "jp": "「そして直ちに告白しておきます」" },
+        { "en": "that the title", "jp": "「肩書きが」" },
+        { "en": "by which I have just called myself", "jp": "「私がたった今名乗った」" },
+        { "en": "is not exactly my own.", "jp": "「厳密には私自身のものではないと。」" }
+      ],
+      "full_jp": "「私を雇っている高貴な方は、その代理人があなた方に知られないことを望んでおられます。それに、たった今名乗った肩書きが厳密には私自身のものではないことも、ここで申し上げておきます。」"
+    },
+    {
+      "id": 145,
+      "chunks": [
+        { "en": "I was aware of it,", "jp": "「気づいておりました、」" },
+        { "en": "said Holmes dryly.", "jp": "とホームズは素っ気なく言った。" }
+      ],
+      "full_jp": "「気づいておりました」とホームズは素っ気なく言った。"
+    },
+    {
+      "id": 146,
+      "chunks": [
+        { "en": "The circumstances are of great delicacy,", "jp": "「状況はきわめて微妙であり、」" },
+        { "en": "and every precaution has to be taken", "jp": "「あらゆる予防策が取られねばなりません」" },
+        { "en": "to quench", "jp": "「鎮めるために」" },
+        { "en": "what might grow", "jp": "「成長しかねないものを」" },
+        { "en": "to be an immense scandal", "jp": "「巨大なスキャンダルへと」" },
+        { "en": "and seriously compromise", "jp": "「そして深刻に傷つけかねない」" },
+        { "en": "one of the reigning families of Europe.", "jp": "「ヨーロッパの統治王家の一つを。」" }
+      ],
+      "full_jp": "「事情はきわめて微妙です。やがてヨーロッパのある統治王家の名誉を深刻に傷つける巨大なスキャンダルに発展しかねないものを、何としても食い止める必要があります。」"
+    },
+    {
+      "id": 147,
+      "chunks": [
+        { "en": "To speak plainly,", "jp": "「率直に申し上げれば、」" },
+        { "en": "the matter implicates", "jp": "「この件は関わります」" },
+        { "en": "the great House of Ormstein,", "jp": "「オルムシュタイン家に、」" },
+        { "en": "hereditary kings of Bohemia.", "jp": "「ボヘミアの世襲の王家である。」" }
+      ],
+      "full_jp": "「率直に申し上げれば、この件はボヘミアの世襲王家であるオルムシュタイン家に関わるものです。」"
+    },
+    {
+      "id": 148,
+      "chunks": [
+        { "en": "I was also aware of that,", "jp": "「それも気づいておりました、」" },
+        { "en": "murmured Holmes,", "jp": "とホームズはつぶやいた、" },
+        { "en": "settling himself down", "jp": "落ち着いて座りながら" },
+        { "en": "in his armchair", "jp": "肘掛け椅子に" },
+        { "en": "and closing his eyes.", "jp": "そして目を閉じながら。" }
+      ],
+      "full_jp": "「それも気づいておりました」とホームズはつぶやき、肘掛け椅子に身を落ち着けて目を閉じた。"
+    },
+    {
+      "id": 149,
+      "chunks": [
+        { "en": "Our visitor glanced", "jp": "私たちの訪問者は目をやった" },
+        { "en": "with some apparent surprise", "jp": "明らかな驚きを伴って" },
+        { "en": "at the languid, lounging figure", "jp": "気だるげにくつろぐ姿に" },
+        { "en": "of the man", "jp": "その男の" },
+        { "en": "who had been no doubt depicted to him", "jp": "彼に描写されていたに違いない" },
+        { "en": "as the most incisive reasoner", "jp": "最も鋭い推理家として" },
+        { "en": "and most energetic agent in Europe.", "jp": "そしてヨーロッパで最も活動的な調査員として。" }
+      ],
+      "full_jp": "私たちの訪問者は、「ヨーロッパで最も鋭利な推理家にして最も精力的な調査員」として聞かされてきたであろう男が、椅子にぐったりとくつろいでいる姿に、明らかな驚きを浮かべて視線を向けた。"
+    },
+    {
+      "id": 150,
+      "chunks": [
+        { "en": "Holmes slowly reopened his eyes", "jp": "ホームズはゆっくりと目を再び開け" },
+        { "en": "and looked impatiently", "jp": "そしてもどかしげに見た" },
+        { "en": "at his gigantic client.", "jp": "巨漢の依頼人を。" }
+      ],
+      "full_jp": "ホームズはゆっくりと目を開き、巨漢の依頼人をじれったそうに見た。"
+    },
+    {
+      "id": 151,
+      "chunks": [
+        { "en": "If your Majesty would condescend", "jp": "「もし陛下が恐れ多くもなさるなら」" },
+        { "en": "to state your case,", "jp": "「ご用件をお話しに、」" },
+        { "en": "he remarked,", "jp": "と彼は言った、" },
+        { "en": "I should be better able to advise you.", "jp": "「私はもっと良くお助けできるでしょう。」" }
+      ],
+      "full_jp": "「陛下、恐れながらご用件をお話しいただけましたら、より的確に助言できるかと存じます」と彼は言った。"
+    },
+    {
+      "id": 152,
+      "chunks": [
+        { "en": "The man sprang from his chair", "jp": "その男は椅子から飛び上がった" },
+        { "en": "and paced up and down the room", "jp": "そして部屋を行ったり来たりした" },
+        { "en": "in uncontrollable agitation.", "jp": "抑えきれない動揺の中で。" }
+      ],
+      "full_jp": "その男は椅子から飛び上がり、抑えきれない動揺のまま部屋を行ったり来たりした。"
+    },
+    {
+      "id": 153,
+      "chunks": [
+        { "en": "Then,", "jp": "それから、" },
+        { "en": "with a gesture of desperation,", "jp": "やけくその身振りで、" },
+        { "en": "he tore the mask from his face", "jp": "彼は顔から仮面を引きはがした" },
+        { "en": "and hurled it upon the ground.", "jp": "そしてそれを床に叩きつけた。" }
+      ],
+      "full_jp": "それから彼はやけになったような仕草で、顔から仮面を引きはがし、床に叩きつけた。"
+    },
+    {
+      "id": 154,
+      "chunks": [
+        { "en": "You are right,", "jp": "「君の言う通りだ、」" },
+        { "en": "he cried;", "jp": "と彼は叫んだ;" },
+        { "en": "I am the King.", "jp": "「余は王である。」" }
+      ],
+      "full_jp": "「君の言う通りだ。余こそが王である」と彼は叫んだ。"
+    },
+    {
+      "id": 155,
+      "chunks": [
+        { "en": "Why should I attempt", "jp": "「なぜ余が試みなければならぬ」" },
+        { "en": "to conceal it?", "jp": "「それを隠そうと?」" }
+      ],
+      "full_jp": "「なぜそれを隠す必要があろうか?」"
+    },
+    {
+      "id": 156,
+      "chunks": [
+        { "en": "Why, indeed?", "jp": "「まったく、なぜでしょうか?」" },
+        { "en": "murmured Holmes.", "jp": "とホームズはつぶやいた。" }
+      ],
+      "full_jp": "「まったく、なぜでしょうね」とホームズはつぶやいた。"
+    },
+    {
+      "id": 157,
+      "chunks": [
+        { "en": "Your Majesty had not spoken", "jp": "「陛下が話されないうちから」" },
+        { "en": "before I was aware", "jp": "「私はすでに気づいておりました」" },
+        { "en": "that I was addressing", "jp": "「私が話しかけている相手が」" },
+        { "en": "Wilhelm Gottsreich Sigismond von Ormstein,", "jp": "「ヴィルヘルム・ゴッツライヒ・ジギスムント・フォン・オルムシュタイン、」" },
+        { "en": "Grand Duke of Cassel-Felstein,", "jp": "「カッセル・フェルシュタイン大公、」" },
+        { "en": "and hereditary King of Bohemia.", "jp": "「そして世襲のボヘミア王であると。」" }
+      ],
+      "full_jp": "「陛下がお話しになる前から、私はすでに、自分が話しかけている相手がヴィルヘルム・ゴッツライヒ・ジギスムント・フォン・オルムシュタイン——カッセル・フェルシュタイン大公にしてボヘミアの世襲王であると気づいておりました。」"
+    },
+    {
+      "id": 158,
+      "chunks": [
+        { "en": "But you can understand,", "jp": "「だが分かってもらえるだろう、」" },
+        { "en": "said our strange visitor,", "jp": "と奇妙な訪問者は言った、" },
+        { "en": "sitting down once more", "jp": "再び座り直しながら" },
+        { "en": "and passing his hand over his high white forehead,", "jp": "そして手を高く白い額にやりながら、" },
+        { "en": "you can understand", "jp": "「分かってもらえるだろう」" },
+        { "en": "that I am not accustomed", "jp": "「余は慣れておらぬ」" },
+        { "en": "to doing such business in my own person.", "jp": "「自ら出向いてこのような用件にあたることに。」" }
+      ],
+      "full_jp": "「しかし分かってもらえるだろう」と奇妙な訪問者は再び腰を下ろし、高く白い額に手をやりながら言った——「余は、自らこのような用件で出向くことに慣れておらぬのだ。」"
+    },
+    {
+      "id": 159,
+      "chunks": [
+        { "en": "Yet the matter was so delicate", "jp": "「しかし用件はあまりに微妙であり」" },
+        { "en": "that I could not confide it", "jp": "「打ち明けるわけにはいかなかった」" },
+        { "en": "to an agent", "jp": "「代理人に」" },
+        { "en": "without putting myself in his power.", "jp": "「自らをその者の支配下に置くことなくしては。」" }
+      ],
+      "full_jp": "「しかし用件があまりに微妙なため、代理人を立てれば、その者に弱みを握られることになる——だから自ら出向くしかなかったのだ。」"
+    },
+    {
+      "id": 160,
+      "chunks": [
+        { "en": "I have come incognito", "jp": "「余は身分を隠して来た」" },
+        { "en": "from Prague", "jp": "「プラハから」" },
+        { "en": "for the purpose of consulting you.", "jp": "「君に相談するために。」" }
+      ],
+      "full_jp": "「君に相談するため、プラハから身分を隠して参った。」"
+    },
+    {
+      "id": 161,
+      "chunks": [
+        { "en": "Then, pray consult,", "jp": "「では、ご相談ください、」" },
+        { "en": "said Holmes,", "jp": "とホームズは言った、" },
+        { "en": "shutting his eyes once more.", "jp": "再び目を閉じながら。" }
+      ],
+      "full_jp": "「では、ご相談を」とホームズは再び目を閉じながら言った。"
+    },
+    {
+      "id": 162,
+      "chunks": [
+        { "en": "The facts are briefly these:", "jp": "「事実を手短に申せば、こうである:」" }
+      ],
+      "full_jp": "「事実を手短に申せば、こういうことだ。」"
+    },
+    {
+      "id": 163,
+      "chunks": [
+        { "en": "Some five years ago,", "jp": "「およそ5年前、」" },
+        { "en": "during a lengthy visit to Warsaw,", "jp": "「ワルシャワへの長期滞在の最中、」" },
+        { "en": "I made the acquaintance", "jp": "「余は知り合った」" },
+        { "en": "of the well-known adventuress,", "jp": "「かの有名な女冒険家と、」" },
+        { "en": "Irene Adler.", "jp": "「アイリーン・アドラー。」" }
+      ],
+      "full_jp": "「およそ5年前、ワルシャワに長期滞在していた折に、余はかの有名な女冒険家、アイリーン・アドラーと知り合った。」"
+    },
+    {
+      "id": 164,
+      "chunks": [
+        { "en": "The name is no doubt familiar to you.", "jp": "「その名は君にも馴染みがあるだろう。」" }
+      ],
+      "full_jp": "「その名は君にも馴染みがあるだろう。」"
+    },
+    {
+      "id": 165,
+      "chunks": [
+        { "en": "Kindly look her up in my index, Doctor,", "jp": "「ドクター、私の索引で彼女を調べてくれ、」" },
+        { "en": "murmured Holmes", "jp": "とホームズはつぶやいた" },
+        { "en": "without opening his eyes.", "jp": "目を開けることなく。" }
+      ],
+      "full_jp": "「ドクター、私の索引で彼女を調べてくれないか」とホームズは目を閉じたままつぶやいた。"
+    },
+    {
+      "id": 166,
+      "chunks": [
+        { "en": "For many years", "jp": "「長年にわたって」" },
+        { "en": "he had adopted a system", "jp": "「彼はあるシステムを採用していた」" },
+        { "en": "of docketing all paragraphs", "jp": "「すべての記事を分類するための」" },
+        { "en": "concerning men and things,", "jp": "「人物や事物に関する、」" },
+        { "en": "so that it was difficult to name a subject", "jp": "「そのため題材を挙げるのは難しかった」" },
+        { "en": "or a person", "jp": "「あるいは人物を」" },
+        { "en": "on which he could not at once furnish information.", "jp": "「彼が直ちに情報を提供できない。」" }
+      ],
+      "full_jp": "彼は長年にわたって、人物や事物に関するあらゆる記事を分類整理する独自の方式を続けており、彼が即座に情報を出せないような題材や人物を挙げるのは難しかった。"
+    },
+    {
+      "id": 167,
+      "chunks": [
+        { "en": "In this case", "jp": "今回の場合" },
+        { "en": "I found her biography", "jp": "私は彼女の経歴を見つけた" },
+        { "en": "sandwiched in between", "jp": "間に挟まっているのを" },
+        { "en": "that of a Hebrew rabbi", "jp": "あるユダヤ教ラビのものと" },
+        { "en": "and that of a staff-commander", "jp": "そしてある参謀司令官のものとの間に" },
+        { "en": "who had written a monograph", "jp": "彼は研究論文を書いていた" },
+        { "en": "upon the deep-sea fishes.", "jp": "深海魚について。" }
+      ],
+      "full_jp": "今回も、彼女の経歴はあるユダヤ教ラビの記録と、深海魚に関する研究論文を書いたある参謀司令官の記録との間に挟まれていた。"
+    },
+    {
+      "id": 168,
+      "chunks": [
+        { "en": "Let me see!", "jp": "「ええと!」" },
+        { "en": "said Holmes.", "jp": "とホームズは言った。" }
+      ],
+      "full_jp": "「ええと!」とホームズは言った。"
+    },
+    {
+      "id": 169,
+      "chunks": [
+        { "en": "Hum!", "jp": "「ふむ!」" },
+        { "en": "Born in New Jersey", "jp": "「ニュージャージー生まれ」" },
+        { "en": "in the year 1858.", "jp": "「1858年。」" }
+      ],
+      "full_jp": "「ふむ! 1858年、ニュージャージー生まれ。」"
+    },
+    {
+      "id": 170,
+      "chunks": [
+        { "en": "Contralto — hum!", "jp": "「コントラルト——ふむ!」" },
+        { "en": "La Scala, hum!", "jp": "「スカラ座、ふむ!」" }
+      ],
+      "full_jp": "「コントラルト歌手——ふむ! ミラノのスカラ座、ふむ!」"
+    },
+    {
+      "id": 171,
+      "chunks": [
+        { "en": "Prima donna Imperial Opera of Warsaw —", "jp": "「ワルシャワ帝国歌劇場のプリマドンナ——」" },
+        { "en": "yes!", "jp": "「そうだ!」" }
+      ],
+      "full_jp": "「ワルシャワ帝国歌劇場のプリマドンナ——そうだ!」"
+    },
+    {
+      "id": 172,
+      "chunks": [
+        { "en": "Retired from operatic stage —", "jp": "「オペラの舞台から引退——」" },
+        { "en": "ha!", "jp": "「ほう!」" },
+        { "en": "Living in London —", "jp": "「ロンドン在住——」" },
+        { "en": "quite so!", "jp": "「まさしく!」" }
+      ],
+      "full_jp": "「オペラ界から引退——ほう! ロンドン在住——その通り!」"
+    },
+    {
+      "id": 173,
+      "chunks": [
+        { "en": "Your Majesty,", "jp": "「陛下、」" },
+        { "en": "as I understand,", "jp": "「私が理解するところでは、」" },
+        { "en": "became entangled with this young person,", "jp": "「この若い女性と関係を持たれた、」" },
+        { "en": "wrote her some compromising letters,", "jp": "「彼女に弱みとなる手紙を何通か書かれた、」" },
+        { "en": "and is now desirous", "jp": "「そして今お望みである」" },
+        { "en": "of getting those letters back.", "jp": "「その手紙を取り戻すことを。」" }
+      ],
+      "full_jp": "「陛下は、私の理解するところでは、この若い女性と関係を持たれ、彼女に弱みとなる手紙を何通か書かれた——そして今、その手紙を取り戻したいとお望みなのですね。」"
+    },
+    {
+      "id": 174,
+      "chunks": [
+        { "en": "Precisely so.", "jp": "「まさしくその通り。」" },
+        { "en": "But how —", "jp": "「だがどうやって——」" }
+      ],
+      "full_jp": "「まさしくその通り。だが、どうやって——」"
+    },
+    {
+      "id": 175,
+      "chunks": [
+        { "en": "Was there a secret marriage?", "jp": "「秘密の結婚はありましたか?」" }
+      ],
+      "full_jp": "「秘密の結婚はありましたか?」"
+    },
+    {
+      "id": 176,
+      "chunks": [
+        { "en": "None.", "jp": "「ない。」" }
+      ],
+      "full_jp": "「ない。」"
+    },
+    {
+      "id": 177,
+      "chunks": [
+        { "en": "No legal papers or certificates?", "jp": "「法的な書類や証明書は?」" }
+      ],
+      "full_jp": "「法的な書類や証明書は?」"
+    },
+    {
+      "id": 178,
+      "chunks": [
+        { "en": "None.", "jp": "「ない。」" }
+      ],
+      "full_jp": "「ない。」"
+    },
+    {
+      "id": 179,
+      "chunks": [
+        { "en": "Then I fail to follow your Majesty.", "jp": "「では陛下のお話が理解できません。」" }
+      ],
+      "full_jp": "「では、陛下のお話の意味が分かりません。」"
+    },
+    {
+      "id": 180,
+      "chunks": [
+        { "en": "If this young person", "jp": "「もしこの若い女性が」" },
+        { "en": "should produce her letters", "jp": "「手紙を持ち出したとして」" },
+        { "en": "for blackmailing or other purposes,", "jp": "「恐喝など他の目的のために、」" },
+        { "en": "how is she to prove their authenticity?", "jp": "「どうやって本物だと証明するのです?」" }
+      ],
+      "full_jp": "「もしこの女性が恐喝などの目的で手紙を持ち出したとして、その本物であることをどう証明するのでしょうか?」"
+    },
+    {
+      "id": 181,
+      "chunks": [
+        { "en": "There is the writing.", "jp": "「筆跡がある。」" }
+      ],
+      "full_jp": "「筆跡がある。」"
+    },
+    {
+      "id": 182,
+      "chunks": [
+        { "en": "Pooh, pooh!", "jp": "「ふん、ふん!」" },
+        { "en": "Forgery.", "jp": "「偽造です。」" }
+      ],
+      "full_jp": "「ふん! 偽造だと言えばいい。」"
+    },
+    {
+      "id": 183,
+      "chunks": [
+        { "en": "My private note-paper.", "jp": "「余専用の便箋だ。」" }
+      ],
+      "full_jp": "「余専用の便箋だ。」"
+    },
+    {
+      "id": 184,
+      "chunks": [
+        { "en": "Stolen.", "jp": "「盗まれたと。」" }
+      ],
+      "full_jp": "「盗まれたと言えばよい。」"
+    },
+    {
+      "id": 185,
+      "chunks": [
+        { "en": "My own seal.", "jp": "「余自身の封印だ。」" }
+      ],
+      "full_jp": "「余自身の封印だ。」"
+    },
+    {
+      "id": 186,
+      "chunks": [
+        { "en": "Imitation.", "jp": "「模造品です。」" }
+      ],
+      "full_jp": "「模造品だと言えばよい。」"
+    },
+    {
+      "id": 187,
+      "chunks": [
+        { "en": "My photograph.", "jp": "「余の写真だ。」" }
+      ],
+      "full_jp": "「余の写真だ。」"
+    },
+    {
+      "id": 188,
+      "chunks": [
+        { "en": "Bought.", "jp": "「買ったのだと。」" }
+      ],
+      "full_jp": "「買ったものだと言えばよい。」"
+    },
+    {
+      "id": 189,
+      "chunks": [
+        { "en": "We were both in the photograph.", "jp": "「二人とも写真に写っているのだ。」" }
+      ],
+      "full_jp": "「二人とも写真に写っているのだ。」"
+    },
+    {
+      "id": 190,
+      "chunks": [
+        { "en": "Oh, dear!", "jp": "「これは!」" },
+        { "en": "That is very bad!", "jp": "「それは非常にまずい!」" }
+      ],
+      "full_jp": "「これはまずい! 非常にまずいですね!」"
+    },
+    {
+      "id": 191,
+      "chunks": [
+        { "en": "Your Majesty had indeed committed", "jp": "「陛下は確かに犯しておられました」" },
+        { "en": "an indiscretion.", "jp": "「軽率な行いを。」" }
+      ],
+      "full_jp": "「陛下は確かに軽率なことをなさいましたね。」"
+    },
+    {
+      "id": 192,
+      "chunks": [
+        { "en": "I was mad —", "jp": "「余は気が狂っていた——」" },
+        { "en": "insane.", "jp": "「正気を失っていた。」" }
+      ],
+      "full_jp": "「余は気が狂っていた——正気ではなかった。」"
+    },
+    {
+      "id": 193,
+      "chunks": [
+        { "en": "You have compromised yourself", "jp": "「陛下は自らを傷つけられました」" },
+        { "en": "seriously.", "jp": "「深刻なまでに。」" }
+      ],
+      "full_jp": "「ご自身の立場を深刻に危うくされたわけですね。」"
+    },
+    {
+      "id": 194,
+      "chunks": [
+        { "en": "I was only Crown Prince then.", "jp": "「当時はまだ皇太子に過ぎなかった。」" },
+        { "en": "I was young.", "jp": "「余は若かった。」" }
+      ],
+      "full_jp": "「当時はまだ皇太子だった。若かったのだ。」"
+    },
+    {
+      "id": 195,
+      "chunks": [
+        { "en": "I am but thirty now.", "jp": "「今でもまだ30歳だ。」" }
+      ],
+      "full_jp": "「今でもまだ30歳だがね。」"
+    },
+    {
+      "id": 196,
+      "chunks": [
+        { "en": "It must be recovered.", "jp": "「それは取り戻さねばならぬ。」" }
+      ],
+      "full_jp": "「あの写真は取り戻さねばならない。」"
+    },
+    {
+      "id": 197,
+      "chunks": [
+        { "en": "We have tried and failed.", "jp": "「我々は試みたが失敗した。」" }
+      ],
+      "full_jp": "「我々は何度も試みたが、失敗してきた。」"
+    },
+    {
+      "id": 198,
+      "chunks": [
+        { "en": "Your Majesty must pay.", "jp": "「陛下は支払わねばなりません。」" },
+        { "en": "It must be bought.", "jp": "「買い取らなければ。」" }
+      ],
+      "full_jp": "「陛下、お金を払うほかありません。買い取るしかありません。」"
+    },
+    {
+      "id": 199,
+      "chunks": [
+        { "en": "She will not sell.", "jp": "「彼女は売らぬのだ。」" }
+      ],
+      "full_jp": "「彼女は売ろうとしない。」"
+    },
+    {
+      "id": 200,
+      "chunks": [
+        { "en": "Stolen, then.", "jp": "「では盗むしかありません。」" }
+      ],
+      "full_jp": "「では、盗み出すしかありませんね。」"
     }
   ]
 }
