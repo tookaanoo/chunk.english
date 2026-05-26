@@ -423,6 +423,197 @@
         { "en": "of the London slavey.", "jp": "「ロンドンの女中という。」" }
       ],
       "full_jp": "「だから、ほら、二重の推理が成り立つわけだ——君がひどい天気の中外出したこと、そして君が特にひどい靴の扱いをする典型的なロンドンの女中を雇っていることのね。」"
+    },
+    {
+      "id": 41,
+      "chunks": [
+        { "en": "As to your practice,", "jp": "「君の開業の件については、」" },
+        { "en": "if a gentleman walks into my rooms", "jp": "「もしある紳士が私の部屋に入ってきたら」" },
+        { "en": "smelling of iodoform,", "jp": "「ヨードホルムの匂いをさせて、」" },
+        { "en": "with a black mark of nitrate of silver", "jp": "「硝酸銀の黒い跡をつけて」" },
+        { "en": "upon his right forefinger,", "jp": "「右の人差し指に、」" },
+        { "en": "and a bulge", "jp": "「そして膨らみがあったら」" },
+        { "en": "on the right side of his top-hat", "jp": "「シルクハットの右側に」" },
+        { "en": "to show where he has secreted his stethoscope,", "jp": "「聴診器を隠していた場所を示すような、」" },
+        { "en": "I must be dull, indeed,", "jp": "「私は本当に鈍いに違いない、」" },
+        { "en": "if I do not pronounce him", "jp": "「もし私が彼を断定しないなら」" },
+        { "en": "to be an active member", "jp": "「現役のメンバーだと」" },
+        { "en": "of the medical profession.", "jp": "「医療業界の。」" }
+      ],
+      "full_jp": "「開業医の件は、もし紳士が私の部屋に入ってきて、ヨードホルムの匂いをさせ、右手の人差し指に硝酸銀の黒い染み、シルクハットの右側には聴診器を隠していたとわかる膨らみがあれば——これで彼が現役の医者だと見抜けなかったら、私は本当に鈍いということになるよ。」"
+    },
+    {
+      "id": 42,
+      "chunks": [
+        { "en": "I could not help laughing", "jp": "私は笑わずにはいられなかった" },
+        { "en": "at the ease", "jp": "その容易さに" },
+        { "en": "with which he explained", "jp": "彼が説明する" },
+        { "en": "his process of deduction.", "jp": "彼の推理の過程を。" }
+      ],
+      "full_jp": "彼があまりに簡単に推理の過程を説明するので、私は思わず笑ってしまった。"
+    },
+    {
+      "id": 43,
+      "chunks": [
+        { "en": "When I hear you give your reasons,", "jp": "「君が理由を語るのを聞くと、」" },
+        { "en": "I remarked,", "jp": "と私は言った、" },
+        { "en": "the thing always appears to me", "jp": "「そのことはいつも私には思える」" },
+        { "en": "to be so ridiculously simple", "jp": "「ばかげたほど単純に」" },
+        { "en": "that I could easily do it myself,", "jp": "「私自身でも簡単にできそうに、」" },
+        { "en": "though at each successive instance", "jp": "「もっとも、毎回の事例で」" },
+        { "en": "of your reasoning", "jp": "「君の推理の」" },
+        { "en": "I am baffled", "jp": "「私は当惑させられる」" },
+        { "en": "until you explain your process.", "jp": "「君が過程を説明するまで。」" }
+      ],
+      "full_jp": "「君が理由を説明するのを聞くと、いつも馬鹿馬鹿しいくらい単純で、自分にも簡単にできそうに思えるんだ。でも実際には、君が過程を説明するまで、毎回まったく見当がつかないんだよ」と私は言った。"
+    },
+    {
+      "id": 44,
+      "chunks": [
+        { "en": "And yet I believe", "jp": "「それでも私は信じる」" },
+        { "en": "that my eyes are as good", "jp": "「私の目もよく見えると」" },
+        { "en": "as yours.", "jp": "「君と同じくらい。」" }
+      ],
+      "full_jp": "「それでも、私の目だって君の目と同じくらいいいはずなんだがね。」"
+    },
+    {
+      "id": 45,
+      "chunks": [
+        { "en": "Quite so,", "jp": "「まさにその通り、」" },
+        { "en": "he answered,", "jp": "と彼は答えた、" },
+        { "en": "lighting a cigarette,", "jp": "煙草に火をつけながら、" },
+        { "en": "and throwing himself down", "jp": "そして身を投げ出した" },
+        { "en": "into an armchair.", "jp": "肘掛け椅子に。" }
+      ],
+      "full_jp": "「まさにその通り」と彼は答え、煙草に火をつけながら肘掛け椅子に身を沈めた。"
+    },
+    {
+      "id": 46,
+      "chunks": [
+        { "en": "You see,", "jp": "「いいかい、」" },
+        { "en": "but you do not observe.", "jp": "「君は見ているが、観察してはいないんだ。」" }
+      ],
+      "full_jp": "「君は見ているが、観察してはいない。」"
+    },
+    {
+      "id": 47,
+      "chunks": [
+        { "en": "The distinction is clear.", "jp": "「その違いは明らかだ。」" }
+      ],
+      "full_jp": "「その違いは明白だよ。」"
+    },
+    {
+      "id": 48,
+      "chunks": [
+        { "en": "For example,", "jp": "「たとえば、」" },
+        { "en": "you have frequently seen the steps", "jp": "「君は何度も階段を見てきた」" },
+        { "en": "which lead up from the hall", "jp": "「玄関広間から上がっていく」" },
+        { "en": "to this room.", "jp": "「この部屋へと。」" }
+      ],
+      "full_jp": "「たとえば、君は玄関からこの部屋へ上がる階段を何度も見てきただろう。」"
+    },
+    {
+      "id": 49,
+      "chunks": [
+        { "en": "Frequently.", "jp": "「何度も。」" }
+      ],
+      "full_jp": "「何度もね。」"
+    },
+    {
+      "id": 50,
+      "chunks": [
+        { "en": "How often?", "jp": "「何回?」" }
+      ],
+      "full_jp": "「何回くらい?」"
+    },
+    {
+      "id": 51,
+      "chunks": [
+        { "en": "Well, some hundreds of times.", "jp": "「そうだな、数百回は。」" }
+      ],
+      "full_jp": "「そうだな、何百回はあるだろう。」"
+    },
+    {
+      "id": 52,
+      "chunks": [
+        { "en": "Then how many are there?", "jp": "「では何段ある?」" }
+      ],
+      "full_jp": "「では何段ある?」"
+    },
+    {
+      "id": 53,
+      "chunks": [
+        { "en": "How many?", "jp": "「何段?」" },
+        { "en": "I don't know.", "jp": "「分からない。」" }
+      ],
+      "full_jp": "「何段? 分からないよ。」"
+    },
+    {
+      "id": 54,
+      "chunks": [
+        { "en": "Quite so!", "jp": "「その通り!」" },
+        { "en": "You have not observed.", "jp": "「君は観察していないんだ。」" },
+        { "en": "And yet you have seen.", "jp": "「それなのに見ていた。」" }
+      ],
+      "full_jp": "「その通り! 君は観察していないんだ。見てはいるのにね。」"
+    },
+    {
+      "id": 55,
+      "chunks": [
+        { "en": "That is just my point.", "jp": "「それがまさに私の言いたい点さ。」" }
+      ],
+      "full_jp": "「それこそが私の言いたいことだ。」"
+    },
+    {
+      "id": 56,
+      "chunks": [
+        { "en": "Now, I know", "jp": "「さて、私は知っている」" },
+        { "en": "that there are seventeen steps,", "jp": "「17段あると、」" },
+        { "en": "because I have both seen and observed.", "jp": "「なぜなら私は見てかつ観察したからだ。」" }
+      ],
+      "full_jp": "「私は階段が17段あると知っている。なぜなら私は見て、かつ観察したからだ。」"
+    },
+    {
+      "id": 57,
+      "chunks": [
+        { "en": "By the way,", "jp": "「ところで、」" },
+        { "en": "since you are interested", "jp": "「君は関心があるのだから」" },
+        { "en": "in these little problems,", "jp": "「この種の小さな問題に、」" },
+        { "en": "and since you are good enough", "jp": "「そして君は親切にも」" },
+        { "en": "to chronicle one or two", "jp": "「一つ二つを記録してくれている」" },
+        { "en": "of my trifling experiences,", "jp": "「私のささやかな経験を、」" },
+        { "en": "you may be interested", "jp": "「君は興味があるかもしれない」" },
+        { "en": "in this.", "jp": "「これに。」" }
+      ],
+      "full_jp": "「ところで、君はこういう小さな問題に関心があって、私のささやかな経験を一つ二つ記録してくれてもいるから、これにも興味があるんじゃないかな。」"
+    },
+    {
+      "id": 58,
+      "chunks": [
+        { "en": "He threw over", "jp": "彼は投げてよこした" },
+        { "en": "a sheet of thick, pink-tinted note-paper", "jp": "厚いピンク色の便箋を" },
+        { "en": "which had been lying open", "jp": "それは開いたまま置かれていた" },
+        { "en": "upon the table.", "jp": "テーブルの上に。" }
+      ],
+      "full_jp": "彼はテーブルの上に開いて置いてあった、厚手のピンク色の便箋を投げてよこした。"
+    },
+    {
+      "id": 59,
+      "chunks": [
+        { "en": "It came by the last post,", "jp": "「これは最後の配達で届いた、」" },
+        { "en": "he said.", "jp": "と彼は言った。" },
+        { "en": "Read it aloud.", "jp": "「声に出して読んでみてくれ。」" }
+      ],
+      "full_jp": "「これは最後の配達で届いたんだ。声に出して読んでみてくれ」と彼は言った。"
+    },
+    {
+      "id": 60,
+      "chunks": [
+        { "en": "The note was undated,", "jp": "その手紙には日付がなかった、" },
+        { "en": "and without either signature", "jp": "そして署名もなかった" },
+        { "en": "or address.", "jp": "住所も。" }
+      ],
+      "full_jp": "その手紙には日付も、署名も、住所もなかった。"
     }
   ]
 }
